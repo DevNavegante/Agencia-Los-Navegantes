@@ -1,0 +1,152 @@
+
+.contenedor-disposicion{ 
+    
+    margin:0 !important;
+    justify-content: right;
+    
+    
+
+    &__item{
+        float: right;
+        width: 80% !important;
+        margin-bottom: 50px;
+    }
+
+ 
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .color-enlace {
+        font-size: 18px;
+        font-weight: 500 !important;
+        color: #ff5a83;
+    }
+
+
+
+    #carta{ width: 350px; }
+
+
+
+    .contenedor-disposicion{ 
+    
+        margin:0 !important;
+        justify-content: center;
+        
+        
+    
+        &__item{
+            float: none;
+            margin-left: -70px;
+            margin-bottom: 50px;
+        }
+    }
+
+
+
+  }
+
+
+
+.container-blog{
+
+    margin-bottom: 50px;
+
+}
+
+.tamaño-imagen{
+
+    width: 200px;
+}
+
+.titulo-post{
+
+    color: #3533ff !important;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.titulo-post:hover{ 
+     
+   color:#ff5a83 !important ;
+}
+.texto-descripcion44{
+
+    color: #7a7a7a !important;
+    font-size: 14px !important;
+    line-height: 1.5em;
+    text-align: justify;
+    font-family: "Brandon", sans-serif;
+    font-display: swap;
+
+}
+
+.color-enlace {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ff5a83;
+}
+.color-enlace:hover{ color: #0100ff; }
+
+
+a {
+    
+    color: #3b39ff;
+    text-decoration: none;
+
+        &:hover {
+            color:#c36;
+        }
+    
+}
+
+
+
+
+/////// seccion movil 
+
+.contenedor-disposicion-movil{ display: none; }
+
+@media only screen and (max-width: 767px) {
+
+    .row-cont{ margin-bottom: 10px; }
+
+    .contenedor-disposicion{
+        display: none;
+    }
+
+
+    .contenedor-disposicion-movil{ 
+
+        display: block !important;
+    
+        margin:0 !important;
+        
+        
+        
+    
+        &__item2{
+            
+            
+            margin-bottom: 20px !important;
+        }
+    
+     
+    
+    
+    }
+
+
+   
+
+
+
+   
+
+
+
+  }

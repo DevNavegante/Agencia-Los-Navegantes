@@ -1,0 +1,53 @@
+.pagination2{
+
+  width: 80%;
+float: right;
+  
+  padding-bottom: 50px;
+  justify-content: center;
+  text-align: center;
+  
+
+}
+@media (max-width:768px){ 
+
+  .pagination2{
+
+    width: 100% !important;
+  float: center;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    justify-content: center;
+    text-align: center;
+
+  }
+}
+
+.paginacionNumeros{
+
+    margin-left: 5px !important; margin-right: 5px !important;  font-size:25px; color: white; padding: 0 10px; background:#6ec1e4; width:25px; height:20px;
+
+    
+    &.active{ color: var(--green);
+        font-weight: 600;
+        border-bottom: 2px solid var(--green);  }
+
+
+}
+
+
+
+#current-hover 
+
+[aria-current],
+  .current {
+background-color: #0100ff;
+color: white;
+font-weight: 600;
+border-bottom: 2px solid var(--green);
+} 
+
+.numPagination{ padding:10px }
+ 
+
+
