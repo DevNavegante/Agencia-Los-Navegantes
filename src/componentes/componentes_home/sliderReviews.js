@@ -202,6 +202,18 @@ alt=""
 
  </SwiperSlide>
 <SwiperSlide>  
+  <img                  
+                
+                  alt=""
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AgenciaLosNavegantes_Testimonio_Marketingdigital.png?v=1745436124"                               
+                  ></img>
+                    
+
+ </SwiperSlide>
+
+            
+<SwiperSlide>  
 <img                  
 
 alt=""
