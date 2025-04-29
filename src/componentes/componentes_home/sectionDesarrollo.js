@@ -66,7 +66,7 @@ const sectionDesarrollo = (props) => {
           <img
           
           loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
             key={i}
             className="lazyload img img-fluid"
             src={item.url}
@@ -83,7 +83,7 @@ const sectionDesarrollo = (props) => {
         <Col xs={6} md={3} sm={3}  className="fotos-analitics">
           <img
           loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
             className="lazyload img img-fluid"
             src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_Ecommerce_45_049b893940_1.png?v=1659794507"
             width="70%"
@@ -92,7 +92,7 @@ const sectionDesarrollo = (props) => {
         <Col xs={6} md={3} sm={3}  className="fotos-analitics">
           <img
           loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
             className="lazyload img img-fluid"
             src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_Ecommerce_46_f9ef135183.png?v=1659794507"
             width="70%"
@@ -101,7 +101,7 @@ const sectionDesarrollo = (props) => {
         <Col xs={6} md={3} sm={3}  className="fotos-analitics">
           <img
           loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
             className="lazyload img img-fluid"
             src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_Ecommerce_47_d3895d420c.png?v=1659794508"
             width="70%"
@@ -110,7 +110,7 @@ const sectionDesarrollo = (props) => {
         <Col xs={6} md={3} sm={3}  className="fotos-analitics">
           <img
           loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
             className="lazyload img img-fluid"
             src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_Ecommerce_48_d622ab0f71.png?v=1659794507"
             width="70%"

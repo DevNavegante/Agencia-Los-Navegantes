@@ -46,7 +46,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626721/001_banchile_min_e1591908278345_3da749569f.jpg"
@@ -60,7 +60,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960590/CCU_87adfe0222.png"
@@ -78,7 +78,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626832/Block_8aa8ef2b2e.png"
@@ -92,7 +92,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626749/008_depto51_min_e1591908321210_f70d184180.jpg"
@@ -106,7 +106,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626905/freemet_0377f1b84e.jpg"
@@ -121,7 +121,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626975/007_hellowine_min_e1591908439272_70b60cc0a3.jpg"
@@ -135,7 +135,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627111/amoble_e7d43060bd.jpg"
@@ -150,7 +150,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960544/AREA_DESING_fb46924c73.png"
@@ -164,7 +164,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627319/Brain_toys_815d709e7d.jpg"
@@ -178,7 +178,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627280/brava_Logo_b35150df62.jpg"
@@ -192,7 +192,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627215/logo_99da5bbaff.png"
@@ -206,7 +206,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626984/006_cafecaribe_min_e1591908462616_3fa9ee4d8d.jpg"
@@ -221,7 +221,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626877/Logos_clientes_02_e343f600ca.jpg"
@@ -235,7 +235,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960601/CLUB_DEL_SEGURO_a05b27fc91.png"
@@ -250,7 +250,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627388/deco_por_ti_48f74818c0.jpg"
@@ -264,7 +264,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627333/de_Marie_df9d1d7bc4.jpg"
@@ -279,7 +279,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626915/elite_ff917d54df.jpg"
@@ -294,7 +294,7 @@ export default function App() {
              <img
                    style={{paddingBottom:"20px"}}
                    loading="lazy"
-                   alt=""
+                   alt="Agencia Los Navegantes"
                    width="100%"
                     
                      src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627404/estacion_natural_dfe327899c.jpg"
@@ -309,7 +309,7 @@ export default function App() {
              <img
                    style={{paddingBottom:"20px"}}
                    loading="lazy"
-                   alt=""
+                   alt="Agencia Los Navegantes"
                    width="100%"
                     
                      src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627197/forastero_6f5a456830.jpg"
@@ -323,7 +323,7 @@ export default function App() {
              <img
                    style={{paddingBottom:"20px"}}
                    loading="lazy"
-                   alt=""
+                   alt="Agencia Los Navegantes"
                    width="100%"
                     
                      src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960704/FROENS_b8810d83ae.png"
@@ -338,7 +338,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627144/herrera_e0b84bdb9c.jpg"
@@ -352,7 +352,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960729/kallfu_54ce7b0584.png"
@@ -367,7 +367,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960779/LINEATRE_4255d65a14.png"
@@ -382,7 +382,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627263/lovelust_b70b6c52aa.jpg"
@@ -396,7 +396,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627155/mashini2_2785ee6d0e.jpg"
@@ -410,7 +410,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960830/MICROCHILE_efdca98cfd.png"
@@ -424,7 +424,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960853/NATURALOE_b41909a32b.png"
@@ -439,7 +439,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626938/005_ngx_min_e1591908387139_d845a83107.jpg"
@@ -455,7 +455,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626927/pagofacil_c6dee93db1.jpg"
@@ -471,7 +471,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627064/pichintun_1c00bf7b6a.jpg"
@@ -485,7 +485,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626818/village_2d4d3303f5.jpg"
@@ -502,7 +502,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626759/grupolimonada_f1f09e2eed.jpg"
@@ -517,7 +517,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626858/billabong_1_57cfee603e.jpg"
@@ -533,7 +533,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626733/003_everlast_min_e1591908251232_47a7693b1c.jpg"
@@ -547,7 +547,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626998/fabrics2_4a206b5de7.jpg"
@@ -561,7 +561,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626964/009_killstore_min_e1591908413192_3d7b872cee.jpg"
@@ -575,7 +575,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626888/7veinte_2ddcadc92e.jpg"
@@ -589,7 +589,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627296/boaz_a49b3e2bdc.jpg"
@@ -603,7 +603,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960565/bombukids_8e1c01b9b3.png"
@@ -618,7 +618,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960577/buka_0ba85ced15.png"
@@ -632,7 +632,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627055/burtonx_583007ca23.jpg"
@@ -646,7 +646,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627309/casachic_e359287d66.jpg"
@@ -660,7 +660,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960765/LA_BARRA_023b50c26d.png"
@@ -674,7 +674,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960614/CROSSMOUNTAIN_d08aa36adb.png"
@@ -688,7 +688,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960625/DANIEL_MOKSHA_dacd9814ef.png"
@@ -702,7 +702,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960639/DISCOVERY_d4912f298b.png"
@@ -716,7 +716,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960652/Ecotienda_natural_f19c2a2c50.png"
@@ -730,7 +730,7 @@ export default function App() {
              <img
                    style={{paddingBottom:"20px"}}
                    loading="lazy"
-                   alt=""
+                   alt="Agencia Los Navegantes"
                    width="100%"
                     
                      src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960670/ETIENNE_92a6897ce7.png"
@@ -745,7 +745,7 @@ export default function App() {
              <img
                    style={{paddingBottom:"20px"}}
                    loading="lazy"
-                   alt=""
+                   alt="Agencia Los Navegantes"
                    width="100%"
                     
                      src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627425/family_shop_7e0d4784da.jpg"
@@ -759,7 +759,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960716/GREEN_GLASS_0695368a79.png"
@@ -773,7 +773,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627016/impresionarte_9ba7bf8648.jpg"
@@ -787,7 +787,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960752/KENZA_18dedc4ef9.png"
@@ -801,7 +801,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627481/KW_3f9c62e04a.jpg"
@@ -815,7 +815,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960801/LUDOVICA_1680a8d275.png"
@@ -829,7 +829,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960813/MACME_6b8c6395c2.png"
@@ -843,7 +843,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960841/MILU_RUGS_0d70b436a1.png"
@@ -857,7 +857,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627495/MIZOS_cff77fa254.jpg"
@@ -872,7 +872,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1656960864/NOA_a0a0560f4a.png"
@@ -887,7 +887,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627132/overdrive_35d1923b89.jpg"
@@ -901,7 +901,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646626774/profesor_klocker_febb4142db.png"
@@ -915,7 +915,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627082/soyte_aeba5cf439.jpg"
@@ -933,7 +933,7 @@ export default function App() {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646627524/bannercarrusel_e5048a8445.jpg"

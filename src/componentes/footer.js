@@ -42,23 +42,23 @@ const footer = () => {
                   height={133}
                   src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/logoAzul_egggb8_eaec075e-a44b-4059-88dc-cb125ba1d005.webp?v=1659801340"
                   class="fo-img-fo hoverLogo overlay"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                 ></img>
               </a>
             </div>
             <div style={{marginLeft:"-10px",marginTop:"20px"}} className="ssrrPc"> 
             
-           <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_8_1_wrgkza_55d16aa4-04ac-4967-ab5a-3791f4c2bf11.webp?v=1659801371" ></img></a>
-           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_5_1_byazco_1d42f125-9c95-4a94-8b80-3e727a898563.webp?v=1659801368" ></img></a>
-           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_7_1_s18050_8e7ebf42-0f29-4fc6-b52f-af7db0c8b19c.webp?v=1659801368" ></img></a>
+           <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_8_1_wrgkza_55d16aa4-04ac-4967-ab5a-3791f4c2bf11.webp?v=1659801371" ></img></a>
+           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_5_1_byazco_1d42f125-9c95-4a94-8b80-3e727a898563.webp?v=1659801368" ></img></a>
+           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_7_1_s18050_8e7ebf42-0f29-4fc6-b52f-af7db0c8b19c.webp?v=1659801368" ></img></a>
 
             
             </div>
             <div style={{ marginTop: "15px", marginLeft: "12px"}} className="ssrrMovil">
 
-            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_8_1_wrgkza_55d16aa4-04ac-4967-ab5a-3791f4c2bf11.webp?v=1659801371" ></img></a>
-           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_5_1_byazco_1d42f125-9c95-4a94-8b80-3e727a898563.webp?v=1659801368" ></img></a>
-           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_7_1_s18050_8e7ebf42-0f29-4fc6-b52f-af7db0c8b19c.webp?v=1659801368" ></img></a>
+            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_8_1_wrgkza_55d16aa4-04ac-4967-ab5a-3791f4c2bf11.webp?v=1659801371" ></img></a>
+           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_5_1_byazco_1d42f125-9c95-4a94-8b80-3e727a898563.webp?v=1659801368" ></img></a>
+           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Recurso_7_1_s18050_8e7ebf42-0f29-4fc6-b52f-af7db0c8b19c.webp?v=1659801368" ></img></a>
 
             
 
@@ -132,14 +132,14 @@ const footer = () => {
               height={150}
               loading="lazy"
               src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/PremierPartner_2025.png?v=1742588845"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <img style={{paddingTop:"8px", paddingBottom:"15px"}} className="img-footer-w"
               loading="lazy"
               width="60%"
 
               src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia_LogosPartners-78.png?v=1660769910"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <img className="img-footer-w"
                width={140}
@@ -147,26 +147,26 @@ const footer = () => {
               
               loading="lazy"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Mesa-de-trabajo3_7_qlq6xb.webp?v=1659801650"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <img className="img-footer-w"
               width={146}
               height={73}
               loading="lazy"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/logo_klaviyo_master_2_85cfaef4ab.webp?v=1659801650"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <img style={{paddingBottom:"20px"}} className="img-footer-w"
                width="60%"
               loading="lazy"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/LandingEcommerce_logoPartner_-45.png?v=1660746182"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <img className="img-footer-w"
                width="60%"
               loading="lazy"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/LandingEcommerce_logoPartner_-46.png?v=1660746182"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
           </Col>
           <Col sm={3}>

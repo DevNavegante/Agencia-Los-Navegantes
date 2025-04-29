@@ -36,7 +36,7 @@ const slidermkt = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_16_d54048e21b.png?v=1659793230"
@@ -50,7 +50,7 @@ const slidermkt = () => {
       <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_17_e114d16855.png?v=1659793230"
@@ -60,7 +60,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_12_604d819ef0.png?v=1659793230"
@@ -70,7 +70,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_13_a4f9e276df.png?v=1659793230"
@@ -81,7 +81,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_14_2adc61acba.png?v=1659793231"
@@ -92,7 +92,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Casos_MKT_14_2adc61acba_1.png?v=1659793230"
@@ -103,7 +103,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   
                     className="lazyload mmimm img-fluid"
@@ -115,7 +115,7 @@ const slidermkt = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   
                     className="lazyload mmimm img-fluid"

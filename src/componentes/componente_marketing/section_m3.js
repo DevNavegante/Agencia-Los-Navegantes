@@ -104,7 +104,7 @@ SE ESPECIALIZA EN:</h1>
          
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia-72.png?v=1660763752"
@@ -113,7 +113,7 @@ SE ESPECIALIZA EN:</h1>
                 </Col>
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia_LogosADS.png?v=1660763752"
@@ -122,7 +122,7 @@ SE ESPECIALIZA EN:</h1>
                 </Col>
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_21_b89f98f578.png?v=1658865519"
@@ -132,7 +132,7 @@ SE ESPECIALIZA EN:</h1>
 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_22_5b0b0238aa.png?v=1658865519"
@@ -142,7 +142,7 @@ SE ESPECIALIZA EN:</h1>
 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_23_4b9538ed9e.png?v=1658865519"
@@ -153,7 +153,7 @@ SE ESPECIALIZA EN:</h1>
               
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_24_fa36d154c8.png?v=1658865519"
@@ -164,7 +164,7 @@ SE ESPECIALIZA EN:</h1>
                 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia-75.png?v=1660746413"
@@ -175,7 +175,7 @@ SE ESPECIALIZA EN:</h1>
                 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_26_6638a0c575.png?v=1658865519"

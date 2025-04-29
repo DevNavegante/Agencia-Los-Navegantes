@@ -62,7 +62,7 @@ const sliderd1 = () => {
                       width={203}
                       height={150}
                       src={item.imagen1[0].url}
-                      alt=""
+                      alt="Agencia Los Navegantes"
                     ></img>
                   </a>
                 </SwiperSlide>

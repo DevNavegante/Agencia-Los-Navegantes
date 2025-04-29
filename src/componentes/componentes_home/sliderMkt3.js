@@ -36,7 +36,7 @@ const slidermkt3 = () => {
             <img
                   style={{paddingBottom:"20px", paddingRight: "10px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="85%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652982834/Landing_Ecommerce_Partner_28_7d6d4956ae.png"
@@ -50,7 +50,7 @@ const slidermkt3 = () => {
       <img
                   style={{paddingBottom:"20px", paddingRight: "10px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="85%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652982834/Landing_Ecommerce_Partner_30_52bc8a8445.png"
@@ -61,7 +61,7 @@ const slidermkt3 = () => {
      <img
                   style={{paddingBottom:"20px", paddingRight: "10px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="85%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652982834/Landing_Ecommerce_Partner_29_04d4cab851.png"

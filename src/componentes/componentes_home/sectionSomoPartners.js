@@ -25,7 +25,7 @@ function sectionSomoPartners() {
               style={{ textAlign: "center" }}
               className="lazyload img img-fluid imgPart"
               src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/482854311_18492184567051898_8026937054854018734_n.jpg?v=1742833515"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             <div className="hoverclas2 insignia"  >
             <Link  to="https://www.google.com/partners/agency?id=4329839845" className="hoverclas2" style={{color:"#fff",fontSize:"18px"}}>Ver Insignia » </Link>

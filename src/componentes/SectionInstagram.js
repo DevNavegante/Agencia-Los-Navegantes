@@ -49,23 +49,23 @@ function SectionInstagram() {
         className="mySwiper"
       >
         <SwiperSlide>
-        <a href="https://www.instagram.com/p/DG5nR1hxcCd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt=""  width="100%"              
+        <a href="https://www.instagram.com/p/DG5nR1hxcCd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt="Agencia Los Navegantes"  width="100%"              
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/GOOGLE_PARTNER_PREMIER_2025_DE_MV.jpg?v=1742843887"></img></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://www.instagram.com/reel/C1IfZxYuvI2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir"  style={{paddingBottom:"20px"}} loading="lazy" alt=""  width="100%"              
+        <a href="https://www.instagram.com/reel/C1IfZxYuvI2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir"  style={{paddingBottom:"20px"}} loading="lazy" alt="Agencia Los Navegantes"  width="100%"              
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/NOTCO.jpg?v=1742843887"></img></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://www.instagram.com/p/C4G6KekxG6u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt=""  width="100%"              
+        <a href="https://www.instagram.com/p/C4G6KekxG6u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt="Agencia Los Navegantes"  width="100%"              
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/POST_DE_JIMENA.jpg?v=1742843887"></img></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://www.instagram.com/reel/C8ah3PgRbks/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img  className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt=""  width="100%"              
+        <a href="https://www.instagram.com/reel/C8ah3PgRbks/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img  className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt="Agencia Los Navegantes"  width="100%"              
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/POST_DE_DANIELA.jpg?v=1742843887"></img></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://www.instagram.com/reel/DHeBB_VR08A/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt=""  width="100%"              
+        <a href="https://www.instagram.com/reel/DHeBB_VR08A/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank"><img className="fforpir" style={{paddingBottom:"20px"}} loading="lazy" alt="Agencia Los Navegantes"  width="100%"              
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/POST_DE_GOOGLE_PARTNER_COLLAGE_NUEVO.jpg?v=1742843887"></img></a>
         </SwiperSlide>
       </Swiper></div>

@@ -27,8 +27,8 @@ function sectionBanner() {
             <h4 style={{ color: "#0100ff" }}>{subtitulo}</h4>
           </Col>
           <Col>
-            <img loading="lazy" className="gift1 lazyload img img-fluid" alt="" style={{textAlign:"center"}}src={gift}></img>
-            <img loading="lazy" className="nogift2 lazyload img img-fluid" alt="" style={{width:"70%", textAlign:"center"}}src={capitanNogift}></img>
+            <img loading="lazy" className="gift1 lazyload img img-fluid" alt="Agencia Los Navegantes" style={{textAlign:"center"}}src={gift}></img>
+            <img loading="lazy" className="nogift2 lazyload img img-fluid" alt="Agencia Los Navegantes" style={{width:"70%", textAlign:"center"}}src={capitanNogift}></img>
           </Col>
         </Row>
       </Container>
@@ -41,8 +41,8 @@ function sectionBanner() {
           <h4 style={{color:"#0100ff", width:"85%"}} className="descripcionBanner">{subtitulo}</h4>
         </Col>
         <Col style={{ display:"flex", alignItems:"center", justifyContent:"center" }}>
-        <img loading="lazy" className="gift1 lazyload img img-fluid" alt="" style={{textAlign:"center"}}src={gift}></img>
-            <img loading="lazy" className="nogift2 lazyload img img-fluid" alt="" style={{textAlign:"center"}}src={capitanNogift}></img>
+        <img loading="lazy" className="gift1 lazyload img img-fluid" alt="Agencia Los Navegantes" style={{textAlign:"center"}}src={gift}></img>
+            <img loading="lazy" className="nogift2 lazyload img img-fluid" alt="Agencia Los Navegantes" style={{textAlign:"center"}}src={capitanNogift}></img>
         </Col>
       </Row>
     </Container>

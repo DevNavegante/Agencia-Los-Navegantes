@@ -18,7 +18,7 @@ const sectionSumate = () => {
           <img loading="lazy"
               className=" img img-fluid"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_VMEMOE_045b3ff68d.png?v=1659803740"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
           
           </Col>
@@ -63,7 +63,7 @@ const sectionSumate = () => {
             <img loading="lazy"
               className=" img-fluid"
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_VMEMOE_ea00baa374.png?v=1659800523"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             </div>
           </Col>

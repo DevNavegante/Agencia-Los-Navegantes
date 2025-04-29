@@ -38,7 +38,7 @@ const sliderEcommerce = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -53,7 +53,7 @@ const sliderEcommerce = () => {
       <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -64,7 +64,7 @@ const sliderEcommerce = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -75,7 +75,7 @@ const sliderEcommerce = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -87,7 +87,7 @@ const sliderEcommerce = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -99,7 +99,7 @@ const sliderEcommerce = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"
@@ -111,7 +111,7 @@ const sliderEcommerce = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload img img-fluid"

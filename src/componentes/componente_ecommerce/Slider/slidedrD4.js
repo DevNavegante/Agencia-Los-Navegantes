@@ -54,7 +54,7 @@ const SliderD4 = () => {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m1_b2ac4bda41.jpg?v=1658863477"
@@ -68,7 +68,7 @@ const SliderD4 = () => {
       <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m2_73d3cfb087.jpg?v=1658863478"
@@ -79,7 +79,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m3_325cb29a91.jpg?v=1658863478"
@@ -90,7 +90,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m4_b7eb37a17f.jpg?v=1658863478"
@@ -101,7 +101,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m5_35cc9cde8d.jpg?v=1658863478"
@@ -112,7 +112,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m6_7686735583.jpg?v=1658863478"
@@ -124,7 +124,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m7_76010f89b1.jpg?v=1658863478"
@@ -135,7 +135,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m8_13fe42566e.jpg?v=1658863478"
@@ -146,7 +146,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m9_408532eb80.jpg?v=1658863478"
@@ -157,7 +157,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m10_72da685e6b.jpg?v=1658863478"
@@ -168,7 +168,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m11_8dd4bbddae.jpg?v=1658863478"
@@ -179,7 +179,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m12_be719e168d.jpg?v=1658863478"
@@ -190,7 +190,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m13_3921382c7b.jpg?v=1658863478"
@@ -201,7 +201,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m14_43d0870acd.jpg?v=1658863478"
@@ -212,7 +212,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m15_7683686645.jpg?v=1658863478"
@@ -223,7 +223,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/m16_060917c585.jpg?v=1658863478"

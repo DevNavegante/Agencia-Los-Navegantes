@@ -29,7 +29,7 @@ function SeccionTri4() {
             <img loading="lazy" className="lazyload img"
           style={{ width:"30%"}}
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/horizonte2_1_ffb777f840.png?v=1659803630"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             </div>
             </div>
@@ -47,7 +47,7 @@ function SeccionTri4() {
             <img className="lazyload img"
           style={{ width:"45%"}}
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/horizonte2_1_ffb777f840.png?v=1659803630"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
           </Col>
         </Row>

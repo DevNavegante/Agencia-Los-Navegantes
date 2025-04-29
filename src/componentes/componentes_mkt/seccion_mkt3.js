@@ -22,7 +22,7 @@ function seccion_mkt3() {
                   <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
 
                     src={item.url}
                     width="100%"

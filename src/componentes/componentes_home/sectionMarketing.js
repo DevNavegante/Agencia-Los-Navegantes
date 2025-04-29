@@ -89,7 +89,7 @@ const sectionMarketing = () => {
                   <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                     key={i}
                     className="lazyload img img-fluid"
                     src={item.url}
@@ -258,7 +258,7 @@ const sectionMarketing = () => {
          
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia-72.png?v=1660763752"
@@ -267,7 +267,7 @@ const sectionMarketing = () => {
                 </Col>
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_LogosADS.png?v=1660746413"
@@ -276,7 +276,7 @@ const sectionMarketing = () => {
                 </Col>
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia-75.png?v=1660746413"
@@ -286,7 +286,7 @@ const sectionMarketing = () => {
 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_24_46924ec09f.png?v=1659793031"
@@ -296,7 +296,7 @@ const sectionMarketing = () => {
 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_21_062dff6490.png?v=1659793031"
@@ -307,7 +307,7 @@ const sectionMarketing = () => {
               
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_25_1b0c57c1a2.png?v=1659793031"
@@ -318,7 +318,7 @@ const sectionMarketing = () => {
                 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_22_0f342bba04.png?v=1659793031"
@@ -329,7 +329,7 @@ const sectionMarketing = () => {
                 
                 <Col style={{ display:"flex", justifyContent:"center" }} xs={6} md={6} sm={6} >
                   <img
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   loading="lazy"
                     className="lazyload img img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Logos_MKT_26_f32c49a850.png?v=1659793031"

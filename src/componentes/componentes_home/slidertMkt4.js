@@ -36,7 +36,7 @@ const slidermkt4 = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                 
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_15_0330d4c833.png"
@@ -50,7 +50,7 @@ const slidermkt4 = () => {
       <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
               
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_18_c9201e8ac4.png"
@@ -60,7 +60,7 @@ const slidermkt4 = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_19_e0df00b6fe.png"
@@ -70,7 +70,7 @@ const slidermkt4 = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                     
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_17_283782715a.png"
@@ -81,7 +81,7 @@ const slidermkt4 = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_20_9cc468aae2.png"
@@ -92,7 +92,7 @@ const slidermkt4 = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                  
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975820/Landing_Ecommerce_Resultado_20_9cc468aae2.png"
@@ -103,7 +103,7 @@ const slidermkt4 = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652975821/Landing_Ecommerce_Resultado_16_18803f9b45.png"

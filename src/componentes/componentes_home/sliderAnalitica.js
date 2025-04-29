@@ -36,7 +36,7 @@ const slideranalitica = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"
@@ -51,7 +51,7 @@ const slideranalitica = () => {
       <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"
@@ -62,7 +62,7 @@ const slideranalitica = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"
@@ -73,7 +73,7 @@ const slideranalitica = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"
@@ -85,7 +85,7 @@ const slideranalitica = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"
@@ -97,7 +97,7 @@ const slideranalitica = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width={800}
                   height={800}
                     className="lazyload mmimm img-fluid"

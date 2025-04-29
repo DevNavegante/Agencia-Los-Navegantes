@@ -85,7 +85,7 @@ function sectionAnalitica2() {
               {imagen.map((item, i) => (
                 <Col xs={6} md={6} sm={6} key={i}>
                   <img loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                     key={i}
                     className="lazyload img img-fluid"
                     src={item.url}

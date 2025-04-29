@@ -28,7 +28,7 @@ function sectionAgencia() {
 
 <Row >
   <Col md={2}>
-<img className="img-sabermas" loading="lazy" style={{   width: "70%"  }} alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Captura_de_pantalla_2022_04_29_122018_9ce96328e9.jpg?v=1659792549" ></img>
+<img className="img-sabermas" loading="lazy" style={{   width: "70%"  }} alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Captura_de_pantalla_2022_04_29_122018_9ce96328e9.jpg?v=1659792549" ></img>
 </Col>
 <Col >
 <h1 className="subtituloSobrer" style={{ fontSize: "50px", fontWeight: "700" }}>Agencia Los Navegantes.</h1> 
@@ -36,7 +36,7 @@ function sectionAgencia() {
 <p style={{textAlign:"center"}} className="parrafoSaber">Especialistas en Marketing Digital, Analítica Web & Performance.</p>
 </Col>
 <Col md={2}>
-<img className="img-sabermas" loading="lazy" style={{  width: "70%"   }} alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/circulos_eggns2.webp?v=1659792575" ></img>
+<img className="img-sabermas" loading="lazy" style={{  width: "70%"   }} alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/circulos_eggns2.webp?v=1659792575" ></img>
 </Col>
 </Row>
 
@@ -50,7 +50,7 @@ function sectionAgencia() {
             {ImgenesAds.map((item, i) => (
               <Col style={{ display:"flex", alignItems:"center" }} xs={6} md={2} sm={2} key={i}>
                 <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                   key={i}
                   className="mkt-pardes lazyload img img-fluid"
@@ -66,7 +66,7 @@ function sectionAgencia() {
               <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
                 
                 <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
          
                   className="mkt-pardes lazyload img img-fluid"
@@ -77,7 +77,7 @@ function sectionAgencia() {
 <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
 
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
              
                   className="mkt-pardes lazyload img img-fluid"
@@ -87,7 +87,7 @@ function sectionAgencia() {
 </Col>
 <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
            
                   className="mkt-pardes lazyload img img-fluid"
@@ -98,7 +98,7 @@ function sectionAgencia() {
 <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
 
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                
                   className="mkt-pardes lazyload img img-fluid"
@@ -109,7 +109,7 @@ function sectionAgencia() {
 </Col>
 <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
               
                   className="mkt-pardes lazyload img img-fluid"
@@ -120,7 +120,7 @@ function sectionAgencia() {
               </Col>
               <Col  style={{display:"flex", justifyContent:"center", alignItems:"center"}} xs={6} md={2} sm={2} >
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
               
                   className="mkt-pardes lazyload img img-fluid"
@@ -141,7 +141,7 @@ function sectionAgencia() {
             {ImagenPartners.map((item, i) => (
               <Col xs={6} md={2} sm={2} key={i}>
                 <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                 width={150}
                 height={84}
@@ -158,7 +158,7 @@ function sectionAgencia() {
 
           <Col xs={6} md={2} sm={2} >
                 <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                 width={150}
                 height={84}
@@ -170,7 +170,7 @@ function sectionAgencia() {
     </Col>
 <Col xs={6} md={2} sm={2} >
                  <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                 width={150}
                 height={84}
@@ -183,7 +183,7 @@ function sectionAgencia() {
 
 <Col xs={6} md={2} sm={2} >
                   <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                 width={150}
                 height={84}
@@ -195,7 +195,7 @@ function sectionAgencia() {
     </Col>
 <Col xs={6} md={2} sm={2} >
                         <img
-                alt=""
+                alt="Agencia Los Navegantes"
                 loading="lazy"
                 width={150}
                 height={84}

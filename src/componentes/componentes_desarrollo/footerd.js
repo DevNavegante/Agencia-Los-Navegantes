@@ -26,7 +26,7 @@ function Footerd6() {
                   height={133}
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646659738/logoAzul_egggb8.webp"
                   class="fo-img-fo hoverLogo overlay"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                 ></img>
               </a>
             </div></Col>
@@ -51,17 +51,17 @@ function Footerd6() {
             <Col className="alineadosg">
             <div style={{marginLeft:"-10px",marginTop:"20px"}} className="ssrrPc"> 
             
-            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
-            <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
-            <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
+            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
+            <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
+            <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
  
              
              </div>
             <div style={{ marginTop: "15px", marginLeft: "12px"}} className="ssrrMovil">
 
-            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
-           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
-           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
+            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
+           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
+           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
 
             
 
@@ -85,7 +85,7 @@ function Footerd6() {
                   height={133}
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646659738/logoAzul_egggb8.webp"
                   class="fo-img-fo hoverLogo overlay"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                 ></img>
               </a>
             </div></Col>
@@ -110,17 +110,17 @@ function Footerd6() {
             <Col className="alineadosg">
             <div style={{marginLeft:"-10px",marginTop:"20px"}} className="ssrrPc"> 
             
-            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
-            <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
-            <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
+            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
+            <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
+            <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
  
              
              </div>
             <div style={{ marginTop: "15px", marginLeft: "12px"}} className="ssrrMovil">
 
-            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
-           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
-           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
+            <a href="https://www.facebook.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}   alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_8_1_wrgkza.webp" ></img></a>
+           <a href="https://www.instagram.com/agencialosnavegantes/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" width={35} height={35} alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_5_1_byazco.webp" ></img></a>
+           <a href="https://www.linkedin.com/company/agencia-los-navegantes/mycompany/"><img className="hoverclas2" style={{marginLeft:"5px", marginRigth:"5px"}} loading="lazy" height={35} width={35}  alt="Agencia Los Navegantes" src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1646661808/Recurso_7_1_s18050.webp" ></img></a>
 
             
 

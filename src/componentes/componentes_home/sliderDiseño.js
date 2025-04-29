@@ -34,7 +34,7 @@ const sliderDiseño = () => {
            <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
               
                     className="lazyload mmimm  img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/w2_min_a7c15d0843_14313ae8f8.png?v=1659794425"
@@ -47,7 +47,7 @@ const sliderDiseño = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
              
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Correcciones_Landing_Shopify_04_1_6c1ddc01fb_cd0fc73f12.png?v=1659794425"
@@ -60,7 +60,7 @@ const sliderDiseño = () => {
             <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
              
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/over7_min_5e87216bad_7457f398b3.png?v=1659794425"
@@ -74,7 +74,7 @@ const sliderDiseño = () => {
       <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
              
                     className="lazyload mmimm  img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Mockup_Ecommerce_41_62d6fadcea.png?v=1659794425"
@@ -84,7 +84,7 @@ const sliderDiseño = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
              
                     className="lazyload  mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Agencia_Mockup_Ecommerce_copy_2_0439465f57.png?v=1659794425"
@@ -94,7 +94,7 @@ const sliderDiseño = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
               
                     className="lazyload mmimm img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/w4_min_c8f4307e30_b14db65a56.png?v=1659794425"
@@ -105,7 +105,7 @@ const sliderDiseño = () => {
  <SwiperSlide>  <img
                   
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                  
                     className="lazyload mmimm  img-fluid"
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/benow8_min_6a64cdb704_40917694ba.png?v=1659794425"

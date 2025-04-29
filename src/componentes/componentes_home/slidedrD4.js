@@ -54,7 +54,7 @@ const SliderD4 = () => {
             <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968849/m1_b2ac4bda41.jpg"
@@ -68,7 +68,7 @@ const SliderD4 = () => {
       <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968849/m2_73d3cfb087.jpg"
@@ -79,7 +79,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968849/m4_b7eb37a17f.jpg"
@@ -90,7 +90,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968849/m3_325cb29a91.jpg"
@@ -101,7 +101,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m5_35cc9cde8d.jpg"
@@ -112,7 +112,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m6_7686735583.jpg"
@@ -123,7 +123,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m8_13fe42566e.jpg"
@@ -134,7 +134,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m9_408532eb80.jpg"
@@ -145,7 +145,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m7_76010f89b1.jpg"
@@ -156,7 +156,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968846/m10_72da685e6b.jpg"
@@ -167,7 +167,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m14_43d0870acd.jpg"
@@ -178,7 +178,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m13_3921382c7b.jpg"
@@ -189,7 +189,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m15_7683686645.jpg"
@@ -200,7 +200,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m12_be719e168d.jpg"
@@ -211,7 +211,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m16_060917c585.jpg"
@@ -222,7 +222,7 @@ const SliderD4 = () => {
      <img
                   style={{paddingBottom:"20px"}}
                   loading="lazy"
-                  alt=""
+                  alt="Agencia Los Navegantes"
                   width="100%"
                    
                     src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968843/m11_8dd4bbddae.jpg"

@@ -22,7 +22,7 @@ function SeccionTri7() {
             <img className="lazyload img"
                style={{ width:"45%"}}
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/aprendizaje1_6ce351aa77.png?v=1659803630"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
           </Col>
           <Col
@@ -34,7 +34,7 @@ function SeccionTri7() {
             <img loading="lazy"  className="lazyload img"
           style={{ width:"30%"}}
               src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/aprendizaje1_6ce351aa77.png?v=1659803630"
-              alt=""
+              alt="Agencia Los Navegantes"
             ></img>
             </div>
             </div>

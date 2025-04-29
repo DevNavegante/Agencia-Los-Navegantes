@@ -22,7 +22,7 @@ function seccionTri3() {
 <div className="imagenes-esconder" style={{marginBottom:"30px", display:"flex", justifyContent:"center"}} >
 <div className="sb-div" >
 <div>
-<img className="img-sabermas" style={{width:"60%", marginTop:"-20px"}} loading="lazy"  alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/izquierda_gez7w2_1.webp?v=1659803572" ></img>
+<img className="img-sabermas" style={{width:"60%", marginTop:"-20px"}} loading="lazy"  alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/izquierda_gez7w2_1.webp?v=1659803572" ></img>
 </div>
 <div  >
 <h1 style={{textAlign:"center"}} className="txt-Tagencia" >Nuestro Equipo</h1> 
@@ -31,7 +31,7 @@ function seccionTri3() {
 </div>
 
 <div>
-<img className="img-sabermas" style={{width:"80%",marginLeft: "35px", marginTop: "-20px"}} loading="lazy" alt="" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/derecha_prul7x_1.webp?v=1659803543" ></img>
+<img className="img-sabermas" style={{width:"80%",marginLeft: "35px", marginTop: "-20px"}} loading="lazy" alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/derecha_prul7x_1.webp?v=1659803543" ></img>
 </div>
 </div>
       </div>
@@ -53,7 +53,7 @@ loading="lazy"
                   className="lazyload img desvanecer "
                   src={item.linkfoto}
                   width={300}
-                  alt=""
+                  alt="Agencia Los Navegantes"
                 ></img>
                 <Container id="tripulacion-cards"
                  

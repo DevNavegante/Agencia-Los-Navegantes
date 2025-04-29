@@ -20,7 +20,7 @@ const sectionBannerHome = () => {
       <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
         key="id1"
         className="lazyload img iconban "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/check_m6hzc3.webp?v=1659792472"
@@ -31,7 +31,7 @@ const sectionBannerHome = () => {
     <li className="link-stil" key="id2">
       <img
       loading="lazy"
-      alt=""
+      alt="Agencia Los Navegantes"
         key="id2"
         className="lazyload img iconban "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/check_m6hzc3.webp?v=1659792472"
@@ -40,7 +40,7 @@ const sectionBannerHome = () => {
     <li className="lazyload img link-stil" key="id3">
       <img
       loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
         key="id3"
         className="lazyload img iconban "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/check_m6hzc3.webp?v=1659792472"
@@ -50,7 +50,7 @@ const sectionBannerHome = () => {
     <li className="link-stil" key="id4">
       <img
       loading="lazy"
-          alt=""
+          alt="Agencia Los Navegantes"
         key="id4"
         className="lazyload img iconban"
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/check_m6hzc3.webp?v=1659792472"
