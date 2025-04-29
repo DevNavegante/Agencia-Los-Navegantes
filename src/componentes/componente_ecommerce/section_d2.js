@@ -22,7 +22,7 @@ verdaderos especialistas.</h1>
           <h1 className="parru-mkt3">Contamos con un equipo de más +40 especialistas para diseñar/desarrollar tu eCommerce e integrarlo con las mejores plataformas de logística, analítica y performance.</h1>
           <img
 
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="45%"
    
   
@@ -30,7 +30,7 @@ verdaderos especialistas.</h1>
       ></img>
             <img
 
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="35%"
 style={{marginTop:"24px"}}
 
@@ -48,7 +48,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/shop2_52256a7862.jpg
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "

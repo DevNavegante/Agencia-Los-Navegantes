@@ -61,7 +61,7 @@ function Seccion_bannerd1() {
       loading="lazy"
       width="100%"
 className="img-fluid"
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
 
   
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/img1_1_0a9752dc7b.png?v=1658860248"

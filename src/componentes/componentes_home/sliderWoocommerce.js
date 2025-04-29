@@ -63,7 +63,7 @@ const sliderWooc = () => {
         <div >
             <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107525/w6_min_0dcf766f04.png"
                    
@@ -75,14 +75,14 @@ const sliderWooc = () => {
      
       <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107524/benow8_min_6a64cdb704.png"
                   ></img>
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107524/over7_min_5e87216bad.png"
                     
@@ -90,7 +90,7 @@ const sliderWooc = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107524/w5_min_d1e82750c1.png"
                           
@@ -100,7 +100,7 @@ const sliderWooc = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654011765/Correcciones_Landing_Ecommerce_10_1_ed7a36a56b.png"
                
@@ -109,7 +109,7 @@ const sliderWooc = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968447/Correcciones_Landing_Ecommerce_09_103424cab2.png"
                
@@ -120,7 +120,7 @@ const sliderWooc = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968447/Correcciones_Landing_Ecommerce_08_f76df1dc6c.png"
                
@@ -130,7 +130,7 @@ const sliderWooc = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968447/Correcciones_Landing_Ecommerce_07_9616b8b1dc.png"
                

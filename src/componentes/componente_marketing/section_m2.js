@@ -47,7 +47,7 @@ const seccionMkt2 = () => {
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "

@@ -29,7 +29,7 @@ function seccion_mkt5() {
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -43,7 +43,7 @@ function seccion_mkt5() {
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -68,7 +68,7 @@ function seccion_mkt5() {
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -83,7 +83,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -103,7 +103,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -178,7 +178,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
            <img
        loading="lazy"
 
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="90%"
       
          className="lazyload img "
@@ -187,7 +187,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
               <img
        loading="lazy"
    
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="90%"
   
          className="lazyload img "
@@ -196,7 +196,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
               <img
        loading="lazy"
   
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="90%"
 
          className="lazyload img "
@@ -205,7 +205,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
               <img
        loading="lazy"
     
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="90%"
     
          className="lazyload img "
@@ -229,7 +229,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
           <img
        loading="lazy"
 
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="100%"
   
          className="lazyload img "
@@ -249,7 +249,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
 <img
        loading="lazy"
 
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="50%"
   
          className="lazyload img "

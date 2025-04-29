@@ -66,7 +66,7 @@ hábiles responderemos a tu solicitud para
     <Col  id="iconss-iconss"  style={{ display:"flex", justifyContent:"center" }}>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector4_0dd6ad7573.jpg?v=1658860497"
@@ -82,7 +82,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector5_84eae01685.jpg?v=1658860497"
@@ -95,7 +95,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center",  justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -113,7 +113,7 @@ hábiles responderemos a tu solicitud para
     <Col  id="iconss-iconss"  style={{ display:"flex", justifyContent:"center" }}>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px", paddingLeft:"18px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector7_e628df7607.jpg?v=1658860497"
@@ -129,7 +129,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector8_68b5b9b96a.jpg?v=1658860497"
@@ -142,7 +142,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px", paddingLeft:"44px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -189,7 +189,7 @@ hábiles responderemos a tu solicitud para
     <Col className="cont-mov6"  >
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector4_0dd6ad7573.jpg?v=1658860497"
@@ -205,7 +205,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector5_84eae01685.jpg?v=1658860497"
@@ -218,7 +218,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -236,7 +236,7 @@ hábiles responderemos a tu solicitud para
     <Col className="cont-mov6" >
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector7_e628df7607.jpg?v=1658860497"
@@ -252,7 +252,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector8_68b5b9b96a.jpg?v=1658860497"
@@ -265,7 +265,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -340,7 +340,7 @@ hábiles responderemos a tu solicitud para
     <Col style={{display:"flex", alignItems:"center", justifyContent: "end"}}>
     <img
     
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="75%"
       
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/sector10_min_7b03890ab6.png?v=1658862544"
@@ -413,7 +413,7 @@ hábiles responderemos a tu solicitud para
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -449,7 +449,7 @@ hábiles responderemos a tu solicitud para
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -463,7 +463,7 @@ hábiles responderemos a tu solicitud para
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -489,7 +489,7 @@ con Nosotros?</h1>
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -504,7 +504,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -525,7 +525,7 @@ con Nosotros?</h1>
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "

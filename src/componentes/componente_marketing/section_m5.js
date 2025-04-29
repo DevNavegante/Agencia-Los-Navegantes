@@ -28,7 +28,7 @@ function seccion_mkt5() {
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -42,7 +42,7 @@ function seccion_mkt5() {
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -67,7 +67,7 @@ function seccion_mkt5() {
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -82,7 +82,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -102,7 +102,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -288,7 +288,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
           <img style={{paddingBottom:"60px"}}
        loading="lazy"
 
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="70%"
   
          className="lazyload img "
@@ -488,7 +488,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
 <img
        loading="lazy"
 
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width="70%"
   
          className="lazyload img "

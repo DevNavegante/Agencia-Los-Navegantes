@@ -62,7 +62,7 @@ function SectionBannerMkt() {
       loading="lazy"
       width="100%"
 
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
 
   
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652970123/Landing_Ecommerce_Banner1_dafaf89d4c.png"

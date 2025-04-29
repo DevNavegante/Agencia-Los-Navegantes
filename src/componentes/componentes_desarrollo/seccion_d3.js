@@ -69,7 +69,7 @@ hábiles responderemos a tu solicitud para
     <Col  id="iconss-iconss"  style={{ display:"flex", justifyContent:"center" }}>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591932/sector4_0dd6ad7573.jpg"
@@ -85,7 +85,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector5_84eae01685.jpg"
@@ -98,7 +98,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center",  justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -116,7 +116,7 @@ hábiles responderemos a tu solicitud para
     <Col  id="iconss-iconss"  style={{ display:"flex", justifyContent:"center" }}>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px", paddingLeft:"18px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector7_e628df7607.jpg"
@@ -132,7 +132,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector8_68b5b9b96a.jpg"
@@ -145,7 +145,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"center", width:"370px", paddingLeft:"44px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -186,7 +186,7 @@ hábiles responderemos a tu solicitud para
     <Col className="cont-mov6"  >
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591932/sector4_0dd6ad7573.jpg"
@@ -202,7 +202,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector5_84eae01685.jpg"
@@ -215,7 +215,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -233,7 +233,7 @@ hábiles responderemos a tu solicitud para
     <Col className="cont-mov6" >
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-           alt="principalpruebas"
+           alt="Agencia Los Navegantes"
            width={70}
            height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector7_e628df7607.jpg"
@@ -249,7 +249,7 @@ hábiles responderemos a tu solicitud para
 
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653591931/sector8_68b5b9b96a.jpg"
@@ -262,7 +262,7 @@ hábiles responderemos a tu solicitud para
   </div>
   <div className="w3-card-4" style={{textAlign:"left", display:"flex", alignItems:"center", justifyContent:"start", paddingBottom:"10px"}}>
   <img
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width={70}
           height={70}
 
@@ -331,7 +331,7 @@ hábiles responderemos a tu solicitud para
     <Col style={{display:"flex", alignItems:"center", justifyContent: "end"}}>
     <img
     
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="75%"
       
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653946056/sector10_min_7b03890ab6.png"
@@ -340,7 +340,7 @@ hábiles responderemos a tu solicitud para
     <Col style={{display:"flex", alignItems:"center"}}>
     <img
      
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="45%"
      
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653946071/sssssf_9ed95d2086.jpg"
@@ -353,7 +353,7 @@ hábiles responderemos a tu solicitud para
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -362,7 +362,7 @@ hábiles responderemos a tu solicitud para
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -398,7 +398,7 @@ hábiles responderemos a tu solicitud para
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -412,7 +412,7 @@ hábiles responderemos a tu solicitud para
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -438,7 +438,7 @@ con Nosotros?</h1>
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "
@@ -453,7 +453,7 @@ src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652979233/
           <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -474,7 +474,7 @@ con Nosotros?</h1>
 <img
 loading="lazy"
 style={{paddingTop:"1%"}}
-alt="principalpruebas"
+alt="Agencia Los Navegantes"
 width="90%"
 key="id1"
 className="lazyload img "

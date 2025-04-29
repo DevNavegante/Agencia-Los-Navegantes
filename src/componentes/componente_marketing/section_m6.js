@@ -73,7 +73,7 @@ function Seccion_mkt7() {
               
           <img
          
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
 
         src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Recurso_16.webp?v=1742911130"

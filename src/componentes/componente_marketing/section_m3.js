@@ -286,7 +286,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
 
         className="lazyload img "
@@ -303,7 +303,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
 
         className="lazyload img "
@@ -320,7 +320,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_07_62ab6ea7a8.png?v=1658865786"
@@ -336,7 +336,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_08_90597ea819.png?v=1658865786"
@@ -352,7 +352,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_09_c0ae863d79.png?v=1658865786"
@@ -367,7 +367,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_10_e7d0f140f1.png?v=1658865786"
@@ -394,7 +394,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_05_b13bd6f740.png?v=1658865786"
@@ -410,7 +410,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_06_a3240b3cd7.png?v=1658865786"
@@ -425,7 +425,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_07_62ab6ea7a8.png?v=1658865786"
@@ -447,7 +447,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         className="lazyload img "
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Icon_08_90597ea819.png?v=1658865786"
@@ -463,7 +463,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         key="id1"
         className="lazyload img "
@@ -479,7 +479,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="38%"
         key="id1"
         className="lazyload img "
@@ -532,7 +532,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -543,7 +543,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -557,7 +557,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -566,7 +566,7 @@ REQUIERE UN TRABAJO CONSTANTE</h1>
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "

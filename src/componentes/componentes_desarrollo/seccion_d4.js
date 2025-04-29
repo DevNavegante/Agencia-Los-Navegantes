@@ -19,13 +19,13 @@ function Seccion_d4() {
 <div style={{textAlign:"center", background:"#F6F6F6", paddingTop:"40px"}} >
         <img className="pc-for"
             style={{ marginBottom:"10px" }}
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="20%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653967901/sector14_min_dcd65ce1c8.png"
 ></img>
 <img className="movil-for"
             style={{ paddingBottom:"20px", margin:"0 auto" }}
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="50%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653967901/sector14_min_dcd65ce1c8.png"
 ></img>
@@ -45,13 +45,13 @@ function Seccion_d4() {
         
 <img className="pc-for"
             style={{ marginBottom:"10px" }}
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="20%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968550/sector15_min_5f3ac808e5.png"
 ></img>
 <img className="movil-for"
             style={{ paddingTop:"30px", paddingBottom:"20px", margin:"0 auto" }}
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="60%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968550/sector15_min_5f3ac808e5.png"
 ></img>
@@ -122,7 +122,7 @@ te hacen VENDER MEJOR!</h2>
 
 <Col >
 <img
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654005537/Correcciones_Landing_12_740f46472e.jpg"
 ></img>
@@ -132,14 +132,14 @@ te hacen VENDER MEJOR!</h2>
 <Row className="conObt" >
 <Col className="pc-for" style={{textAlign:"right", backgroundColor:"white"}} >
 <img
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="80%"
             src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Correcciones_Landing_Capitan_copy_4c6a8eb348.png?v=1690930155"
 ></img>
 </Col >
 <Col className="movil-for" sm={12} style={{textAlign:"center", backgroundColor:"white"}} >
 <img
-            alt="principalpruebas"
+            alt="Agencia Los Navegantes"
             width="80%"
             src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Correcciones_Landing_Capitan_copy_4c6a8eb348.png?v=1690930155"
 ></img>

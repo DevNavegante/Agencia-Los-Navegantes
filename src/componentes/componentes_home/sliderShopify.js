@@ -63,7 +63,7 @@ const sliderShopify = () => {
         <div >
             <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107528/w2_min_a7c15d0843.png"
                    
@@ -75,14 +75,14 @@ const sliderShopify = () => {
      
       <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107528/w1_min_4b275c7190.png"
                   ></img>
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
             width="100%"
             src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107525/w4_min_c8f4307e30.png"
                     
@@ -90,7 +90,7 @@ const sliderShopify = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654107524/w3_min_576f5f3f88.png"
                           
@@ -100,7 +100,7 @@ const sliderShopify = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1654011765/Correcciones_Landing_Shopify_04_1_6c1ddc01fb.png"
                
@@ -109,7 +109,7 @@ const sliderShopify = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968122/Correcciones_Landing_Shopify_05_1188334e60.png"
                
@@ -120,7 +120,7 @@ const sliderShopify = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968122/Correcciones_Landing_Shopify_06_b437f40686.png"
                
@@ -130,7 +130,7 @@ const sliderShopify = () => {
  </SwiperSlide>
  <SwiperSlide>  <img
                   
-                  alt="principalpruebas"
+                  alt="Agencia Los Navegantes"
                   width="100%"
                   src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653968122/Correcciones_Landing_03_301a023999.png"
                

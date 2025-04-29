@@ -52,7 +52,7 @@ function SectionBannerMkt() {
       loading="lazy"
       width="100%"
 
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
 
   
         src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Recurso_WEB_2.webp?v=1744292634"

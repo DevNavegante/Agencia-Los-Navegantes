@@ -91,7 +91,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -108,7 +108,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -125,7 +125,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -142,7 +142,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -159,7 +159,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -175,7 +175,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="50%"
         key="id1"
         className="lazyload img "
@@ -202,7 +202,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -219,7 +219,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -240,7 +240,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -257,7 +257,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -280,7 +280,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -296,7 +296,7 @@ function seccion_mkt3() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -348,7 +348,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
         key="id1"
         className="lazyload img "
@@ -359,7 +359,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="70%"
         key="id1"
         className="lazyload img "
@@ -373,7 +373,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -382,7 +382,7 @@ function seccion_mkt3() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "

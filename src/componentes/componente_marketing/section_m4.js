@@ -59,7 +59,7 @@ function seccion_mkt4() {
     <img
       loading="lazy"
 
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
 
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Embudo_21_b7ac0750f9.png?v=1658866415"
@@ -72,7 +72,7 @@ function seccion_mkt4() {
   <img
       loading="lazy"
      
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="82%"
     
         src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_Embudo_22_7a9ec21374.png?v=1658866439"
@@ -103,7 +103,7 @@ function seccion_mkt4() {
     <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
         key="id1"
         className="lazyload img "
@@ -117,7 +117,7 @@ function seccion_mkt4() {
   <img
       loading="lazy"
       style={{paddingTop:"1%"}}
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="45%"
         key="id1"
         className="lazyload img "

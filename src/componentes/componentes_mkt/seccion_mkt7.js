@@ -65,7 +65,7 @@ function Seccion_mkt7() {
               
           <img
       loading="lazy"
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="90%"
 
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652987960/Landing_Ecommerce_Contactanos_99ede8cc9c.jpg"
@@ -94,7 +94,7 @@ function Seccion_mkt7() {
           <img
           className="fotos-note"
       loading="lazy"
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
           width="100%"
 
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1652988522/Landing_Ecommerce_Collage_Notebook_53e61e3e2c.png"

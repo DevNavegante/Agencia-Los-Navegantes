@@ -61,7 +61,7 @@ function Seccion_bannerd1() {
       loading="lazy"
       width="100%"
 className="img-fluid"
-          alt="principalpruebas"
+          alt="Agencia Los Navegantes"
 
   
         src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1653937334/img1_1_0a9752dc7b.png"
