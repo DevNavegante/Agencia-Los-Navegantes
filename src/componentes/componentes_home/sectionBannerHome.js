@@ -99,7 +99,7 @@ const sectionBannerHome = () => {
             </div>
           </Col>
           <Col sm={6} >
-            <img loading="lazy"  className="col-s6-baner lazyload img img-fluid imagenBannerHome" width={549} height={309} alt="Agencia Los Navegantes" src={Imagenurl}></img>
+            <img loading="lazy"  className="col-s6-baner lazyload img img-fluid imagenBannerHome" width={549} height={309} alt="Agencia Los Navegantes" src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-DIC-SEM03-COLLAGE1.png?v=1734528642"></img>
 
            
           </Col>
