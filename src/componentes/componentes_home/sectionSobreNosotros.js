@@ -35,7 +35,7 @@ function sectionSobreNosotros() {
               
             <a
             
-            href="https://www.agencialosnavegantes.cl/marketing-digital"
+            href="https://www.agencialosnavegantes.cl/tripulacion"
             className="texto-link100"
           >
 Conoce la Tripulación &gt;</a>
