@@ -86,7 +86,7 @@ const footer = () => {
               <li>
                 <a
                   className="navbar-brand"
-                  href="https://ecommerce.agencialosnavegantes.cl/"
+                  href="https://www.agencialosnavegantes.cl/marketing-digital"
                 >
                   Desarrollo Ecommerce
                 </a>
