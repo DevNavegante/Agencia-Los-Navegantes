@@ -64,7 +64,7 @@ const sectionMarketing = () => {
             <div className="hoverclas2">
             <a
             
-              href="https://marketing.agencialosnavegantes.cl/"
+              href="https://www.agencialosnavegantes.cl/marketing-digital"
               className="texto-link99"
             >
               Descubre más aquí	&gt;
@@ -234,7 +234,7 @@ const sectionMarketing = () => {
             <div style={{textAlign:"center"}} >
             <a
             
-            href="https://marketing.agencialosnavegantes.cl/"
+            href="https://www.agencialosnavegantes.cl/marketing-digital"
             className="texto-link99"
           >
             Descubre más aquí	&gt;
