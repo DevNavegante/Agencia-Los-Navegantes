@@ -1253,7 +1253,7 @@ const slider = () => {
                  <div  className=" hoverclas2 movil-slider" style={{marginBottom:"30px", textAlign:"center", justifyContent:"center"}}>
                  <a
             
-            href="https://marketing.agencialosnavegantes.cl/"
+            href="https://www.agencialosnavegantes.cl/marketing-digital"
             className="texto-link100"
           >
             Solicita portafolio aquí
