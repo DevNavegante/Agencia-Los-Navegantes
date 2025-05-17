@@ -42,7 +42,7 @@ const sectionDesarrollo = (props) => {
               <div className="hoverclas2">
             <a
               className="texto-link97"
-              href="https://ecommerce.agencialosnavegantes.cl/"
+              href="https://www.agencialosnavegantes.cl/marketing-digital"
               
             >
               Descubre más aquí &gt;
