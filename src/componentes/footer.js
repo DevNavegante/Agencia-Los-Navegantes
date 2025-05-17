@@ -86,13 +86,13 @@ const footer = () => {
               <li>
                 <a
                   className="navbar-brand"
-                  href="https://www.agencialosnavegantes.cl/marketing-digital"
+                  href="https://www.agencialosnavegantes.cl/tripulacion"
                 >
                   Desarrollo Ecommerce
                 </a>
               </li>
               <li>
-                <Link className="navbar-brand" to="https://marketing.agencialosnavegantes.cl">
+                <Link className="navbar-brand" to="https://www.agencialosnavegantes.cl/marketing-digital/">
                   Marketing Digital
                 </Link>
               </li>
