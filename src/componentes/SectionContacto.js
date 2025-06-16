@@ -9,16 +9,18 @@ import {navigate} from 'gatsby';
 import {Link} from 'gatsby';
 import { useHistory } from "react-router-dom";
 import { init, sendForm } from 'emailjs-com';
+// Importar el componente PhoneInput y sus estilos
+import PhoneInput from 'react-phone-input-2';
+import 'react-phone-input-2/lib/style.css';
+
 init('user_ERlBBhqIOUeDDIcksWV35');
 function SectionContacto() {
-
- 
-
-  
 
   const { register, handleSubmit, watch, errors } = useForm();
 
   const [contactNumber, setContactNumber] = useState("000000");
+  // Estado para el número de teléfono
+  const [phone, setPhone] = useState("");
   
   const generateContactNumber = () => {
     const numStr = "000000" + (Math.random() * 1000000 | 0);
@@ -26,30 +28,24 @@ function SectionContacto() {
   }
 
   const onSubmit = (data) => {
-
+    // Asignar el valor del teléfono al objeto data
+    data.user_telefono = phone;
+    
     const btncompra = document.getElementById('btnContact');
     btncompra.disabled = true; 
     generateContactNumber();
     sendForm('default_service', 'template_m974mai', '#contact-form')
       .then(function(response) {  
         window.location.href = '/gracias';
-
-
-    
-        
       }, function(error) {
         console.log('FAILED...', error);
       });
-      
-    
   }
-
 
   return (
     <div id="contacto" >
       <div style={{ background: "#FA5983" }}>
-        <Container  className="contenedor-contacto"
-        >
+        <Container className="contenedor-contacto">
           <Row>
             <Col style={{ display:"flex", alignItems:"center", }} sm={6}>
               <div>
@@ -60,10 +56,8 @@ function SectionContacto() {
               </h1>
               <br></br>
               <h3
-
               className="sub-cont"
                 style={{
-                  
                   paddingBottom: "20px",
                   color: "#fffe00",
                   fontSize: "27px",
@@ -76,33 +70,43 @@ function SectionContacto() {
               </div>
             </Col>
             <Col sm={6}>
-
-              <Form id='contact-form' action="/gracias" onSubmit={handleSubmit(onSubmit)}  className="formulario-contacto"
-                
-              >
+              <Form id='contact-form' action="/gracias" onSubmit={handleSubmit(onSubmit)} className="formulario-contacto">
                 <input type='hidden' name='contact_number' value={contactNumber} />
                 <Form.Group className="mb-3">
-  
-                  <Form.Control name="user_name" required minLength="4" maxLength="30"  type="text" placeholder="Nombre" />
-                 
+                  <Form.Control name="user_name" required minLength="4" maxLength="30" type="text" placeholder="Nombre" />
                 </Form.Group>
                 <Form.Group className="mb-3">
                   <Form.Control name="user_apellido" minLength="4" required maxLength="30" type="text" placeholder="Apellido" />
                 </Form.Group>
                 <Form.Group className="mb-3">
-                  <Form.Control name="user_empresa" minLength="4" required maxLength="40"  type="text" placeholder="Empresa" />
+                  <Form.Control name="user_empresa" minLength="4" required maxLength="40" type="text" placeholder="Empresa" />
                 </Form.Group>
+                
+                {/* Reemplazar el campo de teléfono original con PhoneInput */}
                 <Form.Group className="mb-3">
-                  <Form.Control
-                    required maxLength="12"
-                    name="user_telefono"
-                    type="number"
-                    placeholder="Número de celular. Ej: +56922222222"
+                  <input type='hidden' name='user_telefono' value={phone} />
+                  <PhoneInput
+                    country={'cl'} // Código de país por defecto (Chile)
+                    value={phone}
+                    onChange={setPhone}
+                    inputProps={{
+                      name: 'phone',
+                      required: true,
+                      maxLength: 16
+                    }}
+                    containerClass="phone-input-container"
+                    inputClass="form-control"
+                    buttonClass="phone-input-button"
+                    dropdownClass="phone-input-dropdown"
+                    searchClass="phone-input-search"
+                    enableSearch={true}
+                    disableSearchIcon={false}
+                    placeholder="Número de celular"
                   />
                 </Form.Group>
+                
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                   <Form.Control
-                    
                     name='user_email'
                     required minLength="4"
                     type="email"
@@ -112,27 +116,18 @@ function SectionContacto() {
                 <Form.Group className="mb-3">
                   <Form.Text style={{ fontSize: "20px", color: "#FFF" }}>
                     Servicio a Cotizar
-                 
                   </Form.Text>
-             
                   <select name="user_select" class="form-control customDropdown">
                     <option value="Desarrollo Web y Ecommerce">Desarrollo Web y Ecommerce</option>
                     <option value="Marketing Digital">Marketing Digital</option>
-                    </select>
-            
-  
-   
-  
-    
-
+                  </select>
                 </Form.Group>
                 <Form.Group className="mb-3">
-                  <Form.Control name='message' required minLength="5"   placeholder="Mensaje" as="textarea" className="textareaa" rows={8} />
+                  <Form.Control name='message' required minLength="5" placeholder="Mensaje" as="textarea" className="textareaa" rows={8} />
                 </Form.Group>
                 
                 <Button
-               
-                id="btnContact"
+                  id="btnContact"
                   type="submit"
                   style={{
                     fontSize:"18px",
@@ -147,10 +142,7 @@ function SectionContacto() {
                     style={{ marginTop:"2px", paddingLeft: "10px", position:"absolute" }}
                   ></i>
                 </Button>
-         
               </Form>
-       
-
             </Col>
           </Row>
         </Container>
