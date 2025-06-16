@@ -6,6 +6,8 @@ import Sliderprensa from "../componente_marketing/Slider/slider_prensa"
 import Card from "react-bootstrap/Card";
 import Video2 from "../componente_marketing/videofre3"
 // Import Swiper styles
+import PhoneInput from 'react-phone-input-2';
+import 'react-phone-input-2/lib/style.css';
 import "swiper/css";
 import "swiper/css/grid";
 import "swiper/css/pagination";
@@ -22,7 +24,7 @@ function Seccion_mkt7() {
   const response = UsePrensa();
   const data = response.allStrapiPrensa.nodes[0].blog_prensa;
   const { register, handleSubmit, watch, errors } = useForm();
-
+  const [phone, setPhone] = useState("");
   const [contactNumber, setContactNumber] = useState("000000");
   
   const generateContactNumber = () => {
@@ -126,14 +128,26 @@ function Seccion_mkt7() {
                     <Form.Control name="user_empresa" required minLength="4" maxLength="20"  type="text" placeholder="Empresa" />
                   </Form.Group>
                   <Form.Group className="mb-3">
-                    <Form.Control
-                      required maxLength="12"
-                      name="user_telefono"
-                      type="number"
-                      minLength="4"
-                      placeholder="Número de celular. Ej: +56922222222"
-                    />
-                  </Form.Group>
+                  <input type='hidden' name='user_telefono' value={phone} />
+                  <PhoneInput
+                    country={'cl'} // Código de país por defecto (Chile)
+                    value={phone}
+                    onChange={setPhone}
+                    inputProps={{
+                      name: 'phone',
+                      required: true,
+                      maxLength: 16
+                    }}
+                    containerClass="phone-input-container"
+                    inputClass="form-control"
+                    buttonClass="phone-input-button"
+                    dropdownClass="phone-input-dropdown"
+                    searchClass="phone-input-search"
+                    enableSearch={true}
+                    disableSearchIcon={false}
+                    placeholder="Número de celular"
+                  />
+                </Form.Group>
                   <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Control
                       
