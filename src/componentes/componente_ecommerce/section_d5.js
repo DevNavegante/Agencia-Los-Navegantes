@@ -12,7 +12,8 @@ import 'react-accessible-accordion/dist/fancy-example.css';
 import { Col, Row, Container, Button, Card } from "react-bootstrap";
 import SliderPrensa from "../componente_marketing/Slider/slider_prensa"
 import "../global-styles/estilo.scss"
-
+import PhoneInput from 'react-phone-input-2';
+import 'react-phone-input-2/lib/style.css';
 import Form from "react-bootstrap/Form";
 import { useForm } from 'react-hook-form';
 import {navigate} from 'gatsby';
@@ -23,7 +24,7 @@ function Seccion_d5() {
  
   const [isOpen, setOpen] = useState(false);
   const { register, handleSubmit, watch, errors } = useForm();
-
+  const [phone, setPhone] = useState("");
   const [contactNumber, setContactNumber] = useState("000000");
   
   const generateContactNumber = () => {
@@ -84,14 +85,27 @@ function Seccion_d5() {
                     <Form.Control name="user_empresa" minLength="4"    required maxLength="20"  type="text" placeholder="Empresa" />
                   </Form.Group>
                   <Form.Group className="mb-3">
-                    <Form.Control
-                      required maxLength="12"
-                      minLength="4"   
-                      name="user_telefono"
-                      type="number"
-                      placeholder="Número de celular. Ej: +56922222222"
-                    />
-                  </Form.Group>
+                  <input type='hidden' name='user_telefono' value={phone} />
+                  <PhoneInput
+                    country={'cl'} // Código de país por defecto (Chile)
+                    value={phone}
+                    onChange={setPhone}
+                    inputProps={{
+                      name: 'phone',
+                      required: true,
+                      maxLength: 16
+                    }}
+                    containerClass="phone-input-container"
+                    inputClass="form-control"
+                    buttonClass="phone-input-button"
+                    dropdownClass="phone-input-dropdown"
+                    searchClass="phone-input-search"
+                    enableSearch={true}
+                    disableSearchIcon={false}
+                    placeholder="Número de celular"
+                  />
+                </Form.Group>
+              
               
                   <Form.Group className="mb-3">
                     <Form.Text style={{ fontSize: "18px", color: "#FFF" }}>
