@@ -4,14 +4,15 @@ import Form from "react-bootstrap/Form";
 import { useForm } from 'react-hook-form';
 import {navigate} from 'gatsby';
 import "../global-styles/estilo.scss"
-
+import PhoneInput from 'react-phone-input-2';
+import 'react-phone-input-2/lib/style.css';
 import { init, sendForm } from 'emailjs-com';
 init('user_ERlBBhqIOUeDDIcksWV35');
 function Seccion_bannerd1() {
 
 
   const {  handleSubmit } = useForm();
-
+  const [phone, setPhone] = useState("");
   const [contactNumber, setContactNumber] = useState("000000");
   const [disable, setDisable] = React.useState(false);
   const generateContactNumber = () => {
@@ -103,14 +104,26 @@ className="img-fluid"
                     <Form.Control name="user_empresa" required minLength="4"    maxLength="20"  type="text" placeholder="Empresa" />
                   </Form.Group>
                   <Form.Group className="mb-3">
-                    <Form.Control
-                      required maxLength="12"
-                      name="user_telefono"
-                      type="number"
-                      minLength="4"   
-                      placeholder="Número de celular. Ej: +56922222222"
-                    />
-                  </Form.Group>
+                  <input type='hidden' name='user_telefono' value={phone} />
+                  <PhoneInput
+                    country={'cl'} // Código de país por defecto (Chile)
+                    value={phone}
+                    onChange={setPhone}
+                    inputProps={{
+                      name: 'phone',
+                      required: true,
+                      maxLength: 16
+                    }}
+                    containerClass="phone-input-container"
+                    inputClass="form-control"
+                    buttonClass="phone-input-button"
+                    dropdownClass="phone-input-dropdown"
+                    searchClass="phone-input-search"
+                    enableSearch={true}
+                    disableSearchIcon={false}
+                    placeholder="Número de celular"
+                  />
+                </Form.Group>
               
                   <Form.Group className="mb-3">
                     <Form.Text style={{ fontSize: "18px", color: "#9E9EA7" }}>
