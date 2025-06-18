@@ -172,7 +172,7 @@ alt="Agencia Los Navegantes"
              
                   alt="Agencia Los Navegantes"
                     className="mmimm  lazyload img-fluid"
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-07.png?v=1710265746"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/image_4.png?v=1750283723"
                   
                   ></img>
                   
@@ -203,13 +203,22 @@ alt="Agencia Los Navegantes"
                 
                   alt="Agencia Los Navegantes"
                   className="mmimm lazyload img-fluid"
-                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AgenciaLosNavegantes_Testimonio_Marketingdigital.png?v=1745436124"                               
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/IMG_0259.jpg?v=1750283723"                               
                   ></img>
                     
 
  </SwiperSlide>
 
+    <SwiperSlide>  
+  <img                  
+                
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AgenciaLosNavegantes_Testimonio_Marketingdigital.png?v=1745436124"                               
+                  ></img>
+                    
 
+ </SwiperSlide>
 
  <SwiperSlide>  
   <img                  
