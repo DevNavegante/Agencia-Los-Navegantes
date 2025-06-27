@@ -44,15 +44,24 @@ const seccionMkt2 = () => {
           </Col>
           <Col  sm={6} md={6} className="center-cols dos order-xs-1 order-md-2">
               
-          <img
-      loading="lazy"
-      style={{paddingTop:"1%"}}
-          alt="Agencia Los Navegantes"
-          width="90%"
-        key="id1"
-        className="lazyload img "
-        src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/agencias2.webp?v=1742586331"
-      ></img>
+         <div style={{
+  padding: "56.25% 0 0 0",
+  position: "relative"
+}}>
+  <iframe 
+    src="https://player.vimeo.com/video/1096702504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+    frameBorder="0" 
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" 
+    style={{
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%"
+    }}
+    title="Agencia Los Navegantes 2025"
+  />
+</div>
 
 
           </Col>
