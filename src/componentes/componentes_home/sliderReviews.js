@@ -425,7 +425,16 @@ alt="Agencia Los Navegantes"
 
  </SwiperSlide>
 
+     <SwiperSlide>  
+  <img                  
+                
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/WhatsApp_Image_2025-07-04_at_11.14.34_AM.jpg?v=1751646805"                               
+                  ></img>
+                    
 
+ </SwiperSlide>
             
       </Swiper>
 
