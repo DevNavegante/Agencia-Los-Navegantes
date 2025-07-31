@@ -86,13 +86,13 @@ function SectionContacto() {
                 <Form.Group className="mb-3">
                   <input type='hidden' name='user_telefono' value={phone} />
                   <PhoneInput
-                    country={'cl'} // Volver a Chile como país por defecto
+                    country={'cl'} // Chile como país por defecto
                     value={phone}
                     onChange={setPhone}
                     inputProps={{
                       name: 'phone',
                       required: true,
-                      maxLength: 20 // Aumentar el límite de caracteres
+                      maxLength: 20
                     }}
                     containerClass="phone-input-container"
                     inputClass="form-control"
@@ -103,20 +103,21 @@ function SectionContacto() {
                     disableSearchIcon={false}
                     placeholder="Número de celular"
                     isValid={(value, country) => {
-                      // Validación más flexible que permite borrar
-                      if (value.length === 0) return true; // Permitir campo vacío
+                      // Permitir campo vacío para poder borrar
+                      if (value.length === 0) return true;
+                      
                       if (country.countryCode === 'ar') {
-                        // Para Argentina, permitir números de 10-11 dígitos (sin contar código de país)
-                        return value.length >= 13 && value.length <= 14; // +54 + 9-11 dígitos
+                        // Para Argentina: +549 + código área (2 dígitos) + número (8 dígitos) = 13 caracteres totales
+                        return value.length === 13;
                       }
                       if (country.countryCode === 'cl') {
-                        // Para Chile, permitir números de 8-9 dígitos (sin contar código de país)
-                        return value.length >= 12 && value.length <= 13; // +56 + 8-9 dígitos
+                        // Para Chile: +56 + 9 + número (8 dígitos) = 12 caracteres totales
+                        return value.length === 12;
                       }
                       // Para otros países, validación estándar
                       return value.length >= 8 && value.length <= 20;
                     }}
-                    preferredCountries={['cl', 'ar', 'mx', 'es', 'us']} // Chile primero, Argentina segundo
+                    preferredCountries={['cl', 'ar', 'mx', 'es', 'us']}
                     enableAreaCodes={true}
                     autoFormat={true}
                     disableCountryCode={false}
