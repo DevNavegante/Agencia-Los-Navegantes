@@ -99,13 +99,13 @@ function SectionBannerMkt() {
                   <Form.Group className="mb-3">
                   <input type='hidden' name='user_telefono' value={phone} />
                   <PhoneInput
-                    country={'cl'} // Código de país por defecto (Chile)
+                    country={'cl'} // Chile como país por defecto
                     value={phone}
                     onChange={setPhone}
                     inputProps={{
                       name: 'phone',
                       required: true,
-                      maxLength: 16
+                      maxLength: 20
                     }}
                     containerClass="phone-input-container"
                     inputClass="form-control"
@@ -115,6 +115,26 @@ function SectionBannerMkt() {
                     enableSearch={true}
                     disableSearchIcon={false}
                     placeholder="Número de celular"
+                    isValid={(value, country) => {
+                      // Permitir campo vacío para poder borrar
+                      if (value.length === 0) return true;
+                      
+                      if (country.countryCode === 'ar') {
+                        // Para Argentina: +54 + 11 dígitos = 14 caracteres totales
+                        return value.length === 14;
+                      }
+                      if (country.countryCode === 'cl') {
+                        // Para Chile: +56 + 9 + número (8 dígitos) = 12 caracteres totales
+                        return value.length === 12;
+                      }
+                      // Para otros países, validación estándar
+                      return value.length >= 8 && value.length <= 20;
+                    }}
+                    preferredCountries={['cl', 'ar']}
+                    enableAreaCodes={true}
+                    autoFormat={true}
+                    disableCountryCode={false}
+                    countryCodeEditable={false}
                   />
                 </Form.Group>
               
