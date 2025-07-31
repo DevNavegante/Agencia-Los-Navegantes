@@ -86,7 +86,7 @@ function SectionContacto() {
                 <Form.Group className="mb-3">
                   <input type='hidden' name='user_telefono' value={phone} />
                   <PhoneInput
-                    country={'ar'} // Cambiar a Argentina como país por defecto
+                    country={'cl'} // Volver a Chile como país por defecto
                     value={phone}
                     onChange={setPhone}
                     inputProps={{
@@ -103,15 +103,20 @@ function SectionContacto() {
                     disableSearchIcon={false}
                     placeholder="Número de celular"
                     isValid={(value, country) => {
-                      // Validación más flexible para números argentinos
+                      // Validación más flexible que permite borrar
+                      if (value.length === 0) return true; // Permitir campo vacío
                       if (country.countryCode === 'ar') {
                         // Para Argentina, permitir números de 10-11 dígitos (sin contar código de país)
                         return value.length >= 13 && value.length <= 14; // +54 + 9-11 dígitos
                       }
+                      if (country.countryCode === 'cl') {
+                        // Para Chile, permitir números de 8-9 dígitos (sin contar código de país)
+                        return value.length >= 12 && value.length <= 13; // +56 + 8-9 dígitos
+                      }
                       // Para otros países, validación estándar
                       return value.length >= 8 && value.length <= 20;
                     }}
-                    preferredCountries={['ar', 'cl', 'mx', 'es', 'us']} // Argentina primero
+                    preferredCountries={['cl', 'ar', 'mx', 'es', 'us']} // Chile primero, Argentina segundo
                     enableAreaCodes={true}
                     autoFormat={true}
                     disableCountryCode={false}
