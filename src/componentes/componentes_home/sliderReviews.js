@@ -435,6 +435,16 @@ alt="Agencia Los Navegantes"
                     
 
  </SwiperSlide>
+            <SwiperSlide>  
+  <img                  
+                
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-19_2750acaf-5018-42c6-a225-d09de159a95e.webp?v=1762531112"                               
+                  ></img>
+                    
+
+ </SwiperSlide>
             
       </Swiper>
 
