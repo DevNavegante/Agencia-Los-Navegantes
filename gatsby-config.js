@@ -35,6 +35,7 @@ module.exports = {
               queryLimit: 1000, // Defaults to 100
               collectionTypes: [`post`,`instagram-contenidos`,`categoria`], 
               singleTypes: [`home`,`mkt`,`tripulacion`,`analitica`,`prensa`],
+                skipFileDownloads: true,
             },
           },
        
