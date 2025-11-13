@@ -11,7 +11,7 @@ import Example1 from "../componentes_desarrollo/acordiond"
 function Seccion_d4() {
   const response = UseMkt();
   const data = response.allStrapiMkt.nodes[0].mkt_seccion3[0];
-  const imagen = data.imagen_iconos;
+  //const imagen = data.imagen_iconos;
   const titulo = data.titulo;
  
   return (
