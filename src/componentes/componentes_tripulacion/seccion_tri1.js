@@ -10,7 +10,7 @@ function seccionTri1() {
   const data = response.allStrapiTripulacion.nodes[0].tripulacion_seccion1[0];
   const titulo = data.titulo;
   const descripcion = data.descripcion;
-  const gift = data.gift_capitan[0].url;
+  //const gift = data.gift_capitan[0].url;
   
 
   return (
