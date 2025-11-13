@@ -6,7 +6,7 @@ function sectionAgencia() {
   const response = UseHome();
   const data = response.allStrapiHome.nodes[0].home_seccion2[0];
   const titulo = data.titulo;
-  const ImagenSection = data.imagen_titulo[0].url;
+  //const ImagenSection = data.imagen_titulo[0].url;
   const ImgenesAds = data.imagen_ads;
   const ImagenPartners = data.imagen_partners;
 
