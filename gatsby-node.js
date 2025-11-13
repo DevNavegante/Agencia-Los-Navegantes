@@ -229,3 +229,25 @@ exports.onCreateNode = async ({ node, actions, createNodeId, createContentDigest
     reporter.warn(`Error processing node: ${error.message}`);
   }
 };
+
+
+
+//miniatura y banner-imagen
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+
+  createTypes(`
+    type StrapiPost implements Node {
+      image_banner: StrapiPostImage_banner
+      miniatura: StrapiPostMiniatura
+    }
+
+    type StrapiPostImage_banner {
+      localFile: File
+    }
+
+    type StrapiPostMiniatura {
+      localFile: File
+    }
+  `)
+}
