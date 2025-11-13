@@ -7,7 +7,7 @@ function SeccionTri6() {
   const data = response.allStrapiTripulacion.nodes[0].tripulacion_seccion7[0];
   const titulo = data.titulo;
   const descripcion = data.descripcion;
-  const imagen = data.imagen[0].url;
+  //const imagen = data.imagen[0].url;
 
   return (
     <div  className="contenedor-body7">
