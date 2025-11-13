@@ -41,7 +41,7 @@ function Seccion_bannerd1() {
   const data = response.allStrapiMkt.nodes[0].mkt_seccion1[0];
   const titulo = data.titulo;
   const descripcion = data.descripcion;
-  const gift = data.git_capitan[0].url;
+  //const gift = data.git_capitan[0].url;
  
   return (
     <div className="fondo-nuevo3 inicioo">
