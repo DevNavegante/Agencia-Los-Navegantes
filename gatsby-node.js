@@ -4,7 +4,6 @@
  * See: https://www.gatsbyjs.com/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
 const path = require("path")
 const { paginate } = require("gatsby-awesome-pagination")
 const FilterWarningsPlugin = require("webpack-filter-warnings-plugin");
@@ -17,229 +16,32 @@ exports.onCreateWebpackConfig = ({ actions }) => {
           /mini-css-extract-plugin[^]*Conflicting order. Following module has been added:/,
       }),
     ],
+    devtool: 'eval-source-map',
   });
 };
-exports.createPages = async ({ actions, graphql }) => {
-  const { createPage } = actions
 
-  // Fetch your items (blog posts, categories, etc).
-
-
-  const posts = await graphql(`
-  query MyQuery  {
-    allStrapiPost (
-     
-      sort: { fields: id_post, order: ASC }) {
-      nodes {
-        categorias {
-          nombre
-        }
-        create_dia
-          create_hora
-        Categoria
-        contenido_1
-        createdAt
-        id
-        linkbanner
-        linkminiatura
-        image_banner {
-          url
-        }
-        miniatura {
-          url
-        }
-        seo_descripcion
-        seo_title
-        titulo_post
-        url
-      }
-    }
-    allStrapiPrensa {
-      nodes {
-        link_banner_escritorio_prensa
-        link_banner_final_prensa
-        link_banner_movil
-        blog_prensa
-      }
-    }
-  }
-
-  `)
-
-
-//Paginacion Prensa
-
-
-
-
-
-
-
-//termino paginacion prensa
-
-  // Create your paginated pages
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/blog/page", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/blog.js`), // Just like `createPage()`
-  })
-
-  posts.data.allStrapiPost.nodes.forEach(post => {
-    createPage({
-      path: `/${post.url}`,
-
-      component: path.resolve(`src/templates/post.js`),
-      context: {
-        data: post,
-      },
-    })
-  })
-
-
-  ////////////////////////////// Categoria MKT /////////////////////////////////////
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/marketing", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaMkt.js`), // Just like `createPage()`
-  })
-
-  /////////////////////////////Analitica////////////////////////////////////////7
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/analitica", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaAnalitica.js`), // Just like `createPage()`
-  })
-
-  /////////////////////////////Diseño////////////////////////////////////////7
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/diseño", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaDiseño.js`), // Just like `createPage()`
-  })
-
-
-  /////////////////////////////Performance////////////////////////////////////////
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/performance", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaPerformance.js`), // Just like `createPage()`
-  })
-
-
-  /////////////////////////////Ecommerce////////////////////////////////////////
-
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/ecommerce", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaEcommerce.js`), // Just like `createPage()`
-  })
-
-  /////////////////////////////Desarrollo////////////////////////////////////////
-
-
-  paginate({
-    createPage, // The Gatsby `createPage` function
-    items: posts.data.allStrapiPost.nodes, // An array of objects
-    itemsPerPage: 2, // How many items you want per page
-    pathPrefix: "/categoria/desarrollo", // Creates pages like `/blog`, `/blog/2`, etc
-    component: path.resolve(`src/templates/categoriaDesarrollo.js`), // Just like `createPage()`
-  })
-
-
-
-
-
-
-}
-
-exports.onCreateWebpackConfig = helper => {
-  const { stage, actions, getConfig } = helper
-  if (stage === "develop" || stage === 'build-javascript') {
-    const config = getConfig()
-    const miniCssExtractPlugin = config.plugins.find(
-      plugin => plugin.constructor.name === "MiniCssExtractPlugin"
-    )
-    if (miniCssExtractPlugin) {
-      miniCssExtractPlugin.options.ignoreOrder = true
-    }
-    actions.replaceWebpackConfig(config)
-  }
-}
-
-
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    devtool: 'eval-source-map',
-  })
-}
-exports.onCreateNode = ({ node, actions }) => {
-  const { deleteNode } = actions;
-  
-  // Elimina nodos de archivos de Cloudinary que fallen
-  if (
-    node.internal.type === 'File' && 
-    node.url && 
-    node.url.includes('cloudinary.com')
-  ) {
-    deleteNode(node);
-  }
-};
-
-// Captura errores durante sourceNodes
-exports.sourceNodes = ({ reporter }) => {
-  reporter.info('Skipping Cloudinary image downloads...');
-};
-
-// Maneja errores de creación de nodos
-exports.onCreateNode = async ({ node, actions, createNodeId, createContentDigest }) => {
-  const { createNode, deleteNode } = actions;
-  
-  try {
-    // Si es un nodo de Strapi con imágenes de Cloudinary
-    if (node.internal.type && node.internal.type.startsWith('Strapi')) {
-      // Elimina referencias a Cloudinary
-      const cleanNode = { ...node };
-      
-      Object.keys(cleanNode).forEach(key => {
-        if (cleanNode[key] && typeof cleanNode[key] === 'object') {
-          if (cleanNode[key].url && cleanNode[key].url.includes('cloudinary.com')) {
-            cleanNode[key] = null;
-          }
-        }
-      });
-    }
-  } catch (error) {
-    reporter.warn(`Error processing node: ${error.message}`);
-  }
-};
-
-
-
-//miniatura y banner-imagen
+// PRIMERO: Define el schema antes de crear las páginas
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
 
   createTypes(`
     type StrapiPost implements Node {
+      id: ID!
+      titulo_post: String
+      url: String
+      contenido_1: String
+      seo_title: String
+      seo_descripcion: String
+      id_post: Int
+      Categoria: String
+      create_dia: String
+      create_hora: String
+      linkminiatura: String
+      linkbanner: String
+      createdAt: Date
       image_banner: StrapiPostImage_banner
       miniatura: StrapiPostMiniatura
+      categorias: [StrapiCategoria]
     }
 
     type StrapiPostImage_banner {
@@ -263,9 +65,12 @@ exports.createSchemaCustomization = ({ actions }) => {
       formats: JSON
       localFile: File
     }
-  `)
 
-  createTypes(`
+    type StrapiCategoria implements Node {
+      id: ID!
+      nombre: String
+    }
+
     type StrapiInstagramContenidos implements Node {
       imagen: StrapiInstagramContenidosimagen
     }
@@ -282,3 +87,136 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
+
+exports.createPages = async ({ actions, graphql }) => {
+  const { createPage } = actions
+
+  const posts = await graphql(`
+    query MyQuery {
+      allStrapiPost(sort: { fields: id_post, order: ASC }) {
+        nodes {
+          categorias {
+            nombre
+          }
+          create_dia
+          create_hora
+          Categoria
+          contenido_1
+          createdAt
+          id
+          linkbanner
+          linkminiatura
+          image_banner {
+            url
+          }
+          miniatura {
+            url
+          }
+          seo_descripcion
+          seo_title
+          titulo_post
+          url
+        }
+      }
+      allStrapiPrensa {
+        nodes {
+          link_banner_escritorio_prensa
+          link_banner_final_prensa
+          link_banner_movil
+          blog_prensa
+        }
+      }
+    }
+  `)
+
+  // Create paginated pages
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/blog/page",
+    component: path.resolve(`src/templates/blog.js`),
+  })
+
+  // Create individual post pages
+  posts.data.allStrapiPost.nodes.forEach(post => {
+    createPage({
+      path: `/${post.url}`,
+      component: path.resolve(`src/templates/post.js`),
+      context: {
+        data: post,
+      },
+    })
+  })
+
+  // Categoria Marketing
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/marketing",
+    component: path.resolve(`src/templates/categoriaMkt.js`),
+  })
+
+  // Categoria Analitica
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/analitica",
+    component: path.resolve(`src/templates/categoriaAnalitica.js`),
+  })
+
+  // Categoria Diseño
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/diseño",
+    component: path.resolve(`src/templates/categoriaDiseño.js`),
+  })
+
+  // Categoria Performance
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/performance",
+    component: path.resolve(`src/templates/categoriaPerformance.js`),
+  })
+
+  // Categoria Ecommerce
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/ecommerce",
+    component: path.resolve(`src/templates/categoriaEcommerce.js`),
+  })
+
+  // Categoria Desarrollo
+  paginate({
+    createPage,
+    items: posts.data.allStrapiPost.nodes,
+    itemsPerPage: 2,
+    pathPrefix: "/categoria/desarrollo",
+    component: path.resolve(`src/templates/categoriaDesarrollo.js`),
+  })
+}
+
+exports.onCreateNode = ({ node, actions }) => {
+  const { deleteNode } = actions;
+  
+  // Elimina nodos de archivos de Cloudinary que fallen
+  if (
+    node.internal.type === 'File' && 
+    node.url && 
+    node.url.includes('cloudinary.com')
+  ) {
+    deleteNode(node);
+  }
+};
+
+exports.sourceNodes = ({ reporter }) => {
+  reporter.info('Skipping Cloudinary image downloads...');
+};
