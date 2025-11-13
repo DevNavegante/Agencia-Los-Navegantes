@@ -9,8 +9,8 @@ import Example1 from "../componentes_desarrollo/acordiond"
 function Seccion_d6() {
   const response = UseMkt();
   const data = response.allStrapiMkt.nodes[0].mkt_seccion3[0];
-  const imagen = data.imagen_iconos;
-  const titulo = data.titulo;
+  //const imagen = data.imagen_iconos;
+  //const titulo = data.titulo;
  
   return (
     <div  className="scd6">
