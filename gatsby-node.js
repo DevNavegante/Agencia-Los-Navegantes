@@ -264,4 +264,21 @@ exports.createSchemaCustomization = ({ actions }) => {
       localFile: File
     }
   `)
+
+  createTypes(`
+    type StrapiInstagramContenidos implements Node {
+      imagen: StrapiInstagramContenidosimagen
+    }
+
+    type StrapiInstagramContenidosimagen {
+      id: String
+      url: String
+      alternativeText: String
+      caption: String
+      width: Int
+      height: Int
+      formats: JSON
+      localFile: File
+    }
+  `)
 }
