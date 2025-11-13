@@ -243,10 +243,24 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type StrapiPostImage_banner {
+      id: String
+      url: String
+      alternativeText: String
+      caption: String
+      width: Int
+      height: Int
+      formats: JSON
       localFile: File
     }
 
     type StrapiPostMiniatura {
+      id: String
+      url: String
+      alternativeText: String
+      caption: String
+      width: Int
+      height: Int
+      formats: JSON
       localFile: File
     }
   `)
