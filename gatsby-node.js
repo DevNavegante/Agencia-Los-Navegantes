@@ -189,3 +189,43 @@ exports.onCreateWebpackConfig = ({ actions }) => {
     devtool: 'eval-source-map',
   })
 }
+exports.onCreateNode = ({ node, actions }) => {
+  const { deleteNode } = actions;
+  
+  // Elimina nodos de archivos de Cloudinary que fallen
+  if (
+    node.internal.type === 'File' && 
+    node.url && 
+    node.url.includes('cloudinary.com')
+  ) {
+    deleteNode(node);
+  }
+};
+
+// Captura errores durante sourceNodes
+exports.sourceNodes = ({ reporter }) => {
+  reporter.info('Skipping Cloudinary image downloads...');
+};
+
+// Maneja errores de creación de nodos
+exports.onCreateNode = async ({ node, actions, createNodeId, createContentDigest }) => {
+  const { createNode, deleteNode } = actions;
+  
+  try {
+    // Si es un nodo de Strapi con imágenes de Cloudinary
+    if (node.internal.type && node.internal.type.startsWith('Strapi')) {
+      // Elimina referencias a Cloudinary
+      const cleanNode = { ...node };
+      
+      Object.keys(cleanNode).forEach(key => {
+        if (cleanNode[key] && typeof cleanNode[key] === 'object') {
+          if (cleanNode[key].url && cleanNode[key].url.includes('cloudinary.com')) {
+            cleanNode[key] = null;
+          }
+        }
+      });
+    }
+  } catch (error) {
+    reporter.warn(`Error processing node: ${error.message}`);
+  }
+};
