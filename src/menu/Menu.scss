@@ -1,0 +1,133 @@
+
+
+.menu {
+    
+    
+    
+    p{ text-align: justify; }
+
+
+}
+
+
+.subtitulos{
+
+    color: #3b39ff;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.putr{display:none;}
+
+.subtitulos_Ultimas{
+
+    color: #3b39ff;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.link_leer:hover{ color: #c36;  }
+.link_leer{
+
+    
+    color: #ff6289;
+    margin-bottom: 8px;
+    font-size: 16px;
+    
+
+}
+
+
+.categoriasB{
+
+    color: #3b39ff;
+    font-size: 27px;
+    font-weight: 700;
+
+
+
+
+}
+
+.colorLista{
+
+   color: #3b39ff;
+
+}
+
+.parrafos2{
+
+    text-align: justify;
+    width: 100%;
+    font-size: 16px;
+    border-color:#7a7a7a ;
+    border: solid 1px 0px 0px 0px;
+  
+
+}
+.ult-etnra{ padding: 0 !important }
+.parrafos{
+
+    text-align: justify;
+    width: 300px;
+    font-size: 16px;
+    color:#7a7a7a;
+
+}
+
+Link {
+    margin: 0 8px;
+    color: #3b39ff;
+    text-decoration: none;
+
+        &:hover {
+            color:#c36;
+        }
+    
+}
+
+.redess{ color: #3b39ff;
+    font-size: 27px;
+    font-style: bold;
+    font-weight: 700;
+
+}
+.sa-redes{ margin-top: 10px; }
+@media (max-width:768px){ 
+
+  
+
+    .redess{ color: #3b39ff;
+        font-size: 27px;
+        font-style: bold;
+        font-weight: 700;
+    
+    }
+
+    .lllll{padding: 20px;}
+
+    .parrafos{
+
+        text-align: justify;
+        width: 100%;
+        font-size: 16px;
+        color:#7a7a7a;
+    
+    }
+
+
+    .borders-fot{
+        width:378px !important; padding-top:10px; padding-bottom:10px; border-top:dashed 1px #9b9090;  border-bottom:dashed 0px #9b9090; margin-bottom: 10px;
+      }
+
+}
+
+
+.borders-fot{
+    width:300px; padding-top:10px; padding-bottom:10px; border-top:dashed 1px #9b9090;  border-bottom:dashed 1px #9b9090;
+  }
+  
+  
+  
