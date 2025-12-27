@@ -7,7 +7,7 @@ import Slidermkt3 from "../componentes_home/sliderMkt5";
 
 function Seccion_d3() {
   const response = UseHome();
-  const data = response.allStrapiHome.nodes[0].home_seccion3[0];
+  const data = response?.allStrapiHome?.nodes?.[0]?.home_seccion3?.[0];
   //const imagen_iconos = data.imagen_iconos;
  
   return (

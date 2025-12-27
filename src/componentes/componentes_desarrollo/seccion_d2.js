@@ -5,11 +5,11 @@ import UseMkt from "../../hooks/useMkt";
 import 'font-awesome/css/font-awesome.min.css';
 const Secciond2 = () => {
   const response = UseMkt();
-  const data = response.allStrapiMkt.nodes[0].mkt_seccion2[0];
-  const descripcion = data.descripcion;
-  const descripcion2 = data.descripcion2;
+  const data = response?.allStrapiMkt?.nodes?.[0]?.mkt_seccion2?.[0];
+  const descripcion = data?.descripcion;
+  const descripcion2 = data?.descripcion2;
   //const imagen_iconos = data.imagen_iconos;
-  const titulo = data.titulo;
+  const titulo = data?.titulo;
 
 
   return (

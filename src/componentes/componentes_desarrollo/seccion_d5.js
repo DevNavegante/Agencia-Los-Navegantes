@@ -16,7 +16,7 @@ import Video from "../SectionVideo2"
 
 function Seccion_d5() {
   const response = UseMkt();
-  const data = response.allStrapiMkt.nodes[0].mkt_seccion3[0];
+  const data = response?.allStrapiMkt?.nodes?.[0]?.mkt_seccion3?.[0];
   //const imagen = data.imagen_iconos;
   //const titulo = data.titulo;
   const [isOpen, setOpen] = useState(false);

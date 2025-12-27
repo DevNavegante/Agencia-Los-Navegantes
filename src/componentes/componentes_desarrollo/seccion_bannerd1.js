@@ -38,9 +38,9 @@ function Seccion_bannerd1() {
   }
 
   const response = UseMkt();
-  const data = response.allStrapiMkt.nodes[0].mkt_seccion1[0];
-  const titulo = data.titulo;
-  const descripcion = data.descripcion;
+  const data = response?.allStrapiMkt?.nodes?.[0]?.mkt_seccion1?.[0];
+  const titulo = data?.titulo;
+  const descripcion = data?.descripcion;
   //const gift = data.git_capitan[0].url;
  
   return (
