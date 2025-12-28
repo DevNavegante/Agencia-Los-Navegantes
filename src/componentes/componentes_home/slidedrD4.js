@@ -17,8 +17,8 @@ SwiperCore.use([Navigation]);
 SwiperCore.use([Autoplay]);
 const SliderD4 = () => {
   const response = UseHome();
-  const datos = response.allStrapiHome.nodes[0].home_seccion3[0];
-  const imagen_iconos = datos.imagen_iconos;
+  const datos = response?.allStrapiHome?.nodes?.[0]?.home_seccion3?.[0];
+  const imagen_iconos = datos?.imagen_iconos;
 
 
   

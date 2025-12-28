@@ -16,7 +16,7 @@ SwiperCore.use([Navigation]);
 SwiperCore.use([Autoplay]);
 const sliderWooc = () => {
   const response = UseHome();
-  const datos = response.allStrapiHome.nodes[0].home_seccion3[0];
+  const datos = response?.allStrapiHome?.nodes?.[0]?.home_seccion3?.[0];
 
 
 
