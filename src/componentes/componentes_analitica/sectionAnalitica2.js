@@ -5,12 +5,12 @@ import UseAnalitica from "../../hooks/useAnalitica";
 import "../SectionContacto";
 function sectionAnalitica2() {
   const response = UseAnalitica();
-  const data = response.allStrapiAnalitica.nodes[0].analitica_seccion2[0];
-  const imagen = data.imagen_iconos;
-  const titulo = data.titulo;
-  const descripcion = data.descripcion;
-  const descripcion2 = data.descripcion2;
-  const link = data.link_conversemos;
+  const data = response?.allStrapiAnalitica?.nodes?.[0]?.analitica_seccion2?.[0];
+  const imagen = data?.imagen_iconos;
+  const titulo = data?.titulo;
+  const descripcion = data?.descripcion;
+  const descripcion2 = data?.descripcion2;
+  const link = data?.link_conversemos;
 
   return (
     <div className="divsect2"

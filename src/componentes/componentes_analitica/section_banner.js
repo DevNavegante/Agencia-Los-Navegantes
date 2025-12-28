@@ -6,10 +6,10 @@ import UseAnalitica from "../../hooks/useAnalitica";
 
 function sectionBanner() {
   const response = UseAnalitica();
-  const data = response.allStrapiAnalitica.nodes[0].ANALITICA_SECCION1[0];
-  const titulo = data.titulo;
-  const subtitulo = data.subtitulo;
-  const gift = data.gift_capitan[0].url;
+  const data = response?.allStrapiAnalitica?.nodes?.[0]?.ANALITICA_SECCION1?.[0];
+  const titulo = data?.titulo;
+  const subtitulo = data?.subtitulo;
+  const gift = data?.gift_capitan?.[0]?.url;
 
 
   return (

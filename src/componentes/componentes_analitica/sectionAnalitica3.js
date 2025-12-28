@@ -5,9 +5,9 @@ import UseAnalitica from "../../hooks/useAnalitica";
 
 function sectionAnalitica3() {
   const response = UseAnalitica();
-  const data = response.allStrapiAnalitica.nodes[0].analitica_seccion3[0];
-  const imagen = data.imagenes_iconos;
-  const titulo = data.titulo;
+  const data = response?.allStrapiAnalitica?.nodes?.[0]?.analitica_seccion3?.[0];
+  const imagen = data?.imagenes_iconos || [];
+  const titulo = data?.titulo;
 
 
   return (
@@ -47,7 +47,7 @@ function sectionAnalitica3() {
                   alt="Agencia Los Navegantes"
                     key={i}
                     className="lazyload img img-fluid"
-                    src={item.url}
+                    src={item?.url}
                     width={300}
                   ></img>
                 </Col>
