@@ -16,7 +16,7 @@ SwiperCore.use([Navigation]);
 SwiperCore.use([Autoplay]);
 const slider5 = () => {
   const response = UseHome();
-  const Datos = response.allStrapiHome.nodes[0].home_seccion6;
+  const Datos = response?.allStrapiHome?.nodes?.[0]?.home_seccion6 || [];
   
   return (
     <div  >
@@ -66,7 +66,7 @@ const slider5 = () => {
                       className="imsld-fin img-slider-movil img-fluid"
                       width={203}
                       height={150}
-                      src={item.imagen1[0].url}
+                      src={item?.imagen1?.[0]?.url}
                       alt="Agencia Los Navegantes"
                     ></img>
                   </a>
