@@ -456,6 +456,20 @@ alt="Agencia Los Navegantes"
                   src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-21_c419c7a4-3a23-437e-ab78-c98da98ff47d.webp?v=1762531112"                               
                   ></img>
  </SwiperSlide>
+            <SwiperSlide>  
+  <img                  
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios-22.webp?v=1767099425"                               
+                  ></img>
+ </SwiperSlide>
+            <SwiperSlide>  
+  <img                  
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios-23.webp?v=1767099425"                               
+                  ></img>
+ </SwiperSlide>
             
       </Swiper>
 
