@@ -52,7 +52,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/shop2_52256a7862.jpg
           width="90%"
         key="id1"
         className="lazyload img "
-        src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/collage_2_0e3fa372-0aba-48ee-9ed1-6d842ae3e530.png?v=1734528759"
+        src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_173_collage_2_0e3fa372-0aba-48ee-9ed1-6d842ae3e530_2.png?v=1767103845"
       ></img>
 
 
