@@ -43,7 +43,7 @@ Conoce la Tripulación &gt;</a>
           </Col>
           <Col style={{display:"flex", alignItems:"center", justifyContent:"center"}} sm={6} >
             <div className="sobre-noso" >
-            <img loading="lazy"  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/collage_2_0e3fa372-0aba-48ee-9ed1-6d842ae3e530.png?v=1734528759" width={589} height={331} className="sobre-img lazyload img img-fluid" alt="Agencia Los Navegantes"></img>
+            <img loading="lazy"  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_173_collage_2_0e3fa372-0aba-48ee-9ed1-6d842ae3e530_2.png?v=1767103845" width={589} height={331} className="sobre-img lazyload img img-fluid" alt="Agencia Los Navegantes"></img>
             </div>
           </Col>
         </Row>
