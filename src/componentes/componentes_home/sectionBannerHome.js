@@ -7,7 +7,6 @@ const sectionBannerHome = () => {
   const response = UseHome();
   const data = response.allStrapiHome.nodes[0].home_seccionBanner[0];
 
-  
   const Imagenurl = data.linkbanner1;
   const descripcion = data.desccription;
   const texto_pregunta = data.texto_pregunta;
