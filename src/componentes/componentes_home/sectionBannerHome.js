@@ -14,7 +14,6 @@ const sectionBannerHome = () => {
 
   console.log( Imagenurl, "aca " );
 
-
   let Lista = [
     <li className="link-stil" key="id1">
       <img
