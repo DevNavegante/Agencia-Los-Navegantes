@@ -671,20 +671,6 @@ const slider = () => {
                   </a>
  </SwiperSlide>
  <SwiperSlide>  
- <a href="https://www.greenglass.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/GREEN_GLASS_0695368a79.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
  <a href="https://galeriaimpresionarte.com/">
             <img
                   style={{paddingBottom:"20px"}}
