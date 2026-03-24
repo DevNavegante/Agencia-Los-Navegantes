@@ -3,10 +3,8 @@ import { Col, Row, Container } from "react-bootstrap";
 import "../global-styles/estilo.scss"
 import SliderMmkt from "../componente_marketing/Slider/SliderRmkMovil"
 import SliderFmkt from "../componente_marketing/Slider/sliderRmkt"
-import Slidermkt3 from "../componente_marketing/Slider/sliderMkt3";
 import SliderReviews from "../componente_marketing/Slider/sliderReviews"
-import Slidertit from "../componentes_home/slidertesti"
-function seccion_edit_llanos() {
+function edit_llanos() {
 
  
   return (
@@ -21,5 +19,4 @@ function seccion_edit_llanos() {
     </div>
   );
 }
-
 export default seccion_edit_llanos;
