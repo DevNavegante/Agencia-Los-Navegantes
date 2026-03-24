@@ -5,7 +5,7 @@ import Sct3 from "../componentes/componente_marketing/section_m3"
 import Sct4 from "../componentes/componente_marketing/section_m4"
 import Sct5 from "../componentes/componente_marketing/section_m5"
 import Sct6 from "../componentes/componente_marketing/section_m6"
-import mllanos from "../componentes/componente_marketing/edit_llanos"
+import mll from "../componentes/componente_marketing/section_edit_llanos"
 import Footer from "../componentes/componente_marketing/footerd"
 import Header from "../componentes/header"
 import Seo from "../componentes/componente_marketing/seo"
@@ -22,11 +22,11 @@ function marketingdigital() {
       <Header ></Header>
       <Sct1 ></Sct1>
       <Sct2 ></Sct2>
+      <mll></mll>
       <Sct3></Sct3>
       <Sct4></Sct4>
       <Sct5></Sct5>
       <Sct6></Sct6>
-      <mllanos></mllanos>
       <Footer></Footer>
     </React.Fragment>
   )
