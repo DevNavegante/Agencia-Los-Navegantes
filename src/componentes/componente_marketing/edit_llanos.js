@@ -19,4 +19,4 @@ function edit_llanos() {
     </div>
   );
 }
-export default seccion_edit_llanos;
+export default edit_llanos;
