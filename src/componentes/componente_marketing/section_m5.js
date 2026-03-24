@@ -11,10 +11,10 @@ function seccion_mkt5() {
  
   return (
     <div  >
-        
+        /*
         <SliderFmkt></SliderFmkt>
         <SliderMmkt></SliderMmkt>
-  
+  */
         <Container  >
         <Row
           className="giro justify-content-center"
@@ -476,10 +476,10 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
     </Col>
 </div>
 
-<div style={{paddingTop:"40px", paddingBottom:"40px", paddingBottom:"40px", background:"#DEDCEC"}}>
+/*<div style={{paddingTop:"40px", paddingBottom:"40px", paddingBottom:"40px", background:"#DEDCEC"}}>
 <SliderReviews id="slider-rew"></SliderReviews>
 
-</div>
+</div>*/
 
 <div className="versc6">
 <Row>
