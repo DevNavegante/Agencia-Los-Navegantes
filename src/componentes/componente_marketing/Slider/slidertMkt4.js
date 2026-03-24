@@ -37,7 +37,7 @@ const slidermkt4 = () => {
                   alt="Agencia Los Navegantes"
                   width="100%"
                 
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321749/Landing_Ecommerce_Resultado_15_b3fe37a542.png"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia_Casos_MKT-14.png?v=1774363435"
                    
 
                   ></img></div>
@@ -51,7 +51,7 @@ const slidermkt4 = () => {
                   alt="Agencia Los Navegantes"
                   width="100%"
               
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321750/Landing_Ecommerce_Resultado_17_ff944b3f1d.png"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia_Casos_MKT-12.png?v=1774363396"
                    
                   ></img>
  </SwiperSlide>
@@ -61,45 +61,10 @@ const slidermkt4 = () => {
                   alt="Agencia Los Navegantes"
                   width="100%"
                    
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321750/Landing_Ecommerce_Resultado_20_da7636d3b1.png"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Landing_Agencia_Casos_MKT_-16.png?v=1774363397"
                     
                   ></img>
  </SwiperSlide>
- <SwiperSlide>  <img
-                  
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                    
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321750/Landing_Ecommerce_Resultado_16_08a538914c.png"
-                   
-                 
-                  ></img>
- </SwiperSlide>
- <SwiperSlide>  <img
-                  
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-               
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321750/Landing_Ecommerce_Resultado_19_9a959984ac.png"
-               
-                  
-                  ></img>
- </SwiperSlide>
- <SwiperSlide>  <img
-                  
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                 
-                    src="https://res.cloudinary.com/agencia-web-refresh223/image/upload/v1655321750/Landing_Ecommerce_Resultado_18_b392c5c35c.png"
-                  
-                 
-                  ></img>
- </SwiperSlide>
-
-        
       </Swiper>
 
 </Container>
