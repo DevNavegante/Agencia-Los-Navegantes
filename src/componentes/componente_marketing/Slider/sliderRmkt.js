@@ -124,6 +124,20 @@ const slider = () => {
                   ></img>
                   </a>
  </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.burton.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="100%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/burtonx_583007ca23.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
  <SwiperSlide>  
  <a href="https://www.blockstore.cl/">
             <img
@@ -138,6 +152,62 @@ const slider = () => {
                   ></img>
                   </a>
  </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.topwear.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="100%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES_Mesa_de_trabajo_1.png?v=1710789722"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.engelvoelkers.com/cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="100%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ENGEL_VOLKERS.png?v=1775057407"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://labarra.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="100%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/LA_BARRA_023b50c26d.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="http://www.escueladecomercio.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="100%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Logos_clientes_02_e343f600ca.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>        
  <SwiperSlide>  
  <a href="https://depto51.com/">
             <img
@@ -175,20 +245,6 @@ const slider = () => {
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/fabrics2_4a206b5de7.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.topwear.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES_Mesa_de_trabajo_1.png?v=1710789722"
                    
 
                   ></img>
@@ -376,20 +432,7 @@ const slider = () => {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.burton.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/burtonx_583007ca23.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.cadacosaensulugar.cl/">
             <img
@@ -433,20 +476,6 @@ const slider = () => {
                   </a>
  </SwiperSlide>
  <SwiperSlide>  
- <a href="https://labarra.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/LA_BARRA_023b50c26d.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
  <a href="https://pergolux.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -455,20 +484,6 @@ const slider = () => {
                   width="100%"
                    
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-05.png?v=1710789988"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="http://www.escueladecomercio.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="100%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Logos_clientes_02_e343f600ca.jpg?v=1658866602"
                    
 
                   ></img>
