@@ -67,34 +67,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
-        <a href="https://tienda.notco.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-22.png?v=1710790100"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://limonada.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/grupolimonada_f1f09e2eed.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.billabong.cl/">
             <img
@@ -123,34 +96,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.blockstore.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Block_8aa8ef2b2e.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.topwear.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES_Mesa_de_trabajo_1.png?v=1710789722"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
 <SwiperSlide>  
  <a href="https://www.engelvoelkers.com/cl/">
             <img
@@ -179,34 +125,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
-<SwiperSlide>  
- <a href="http://www.escueladecomercio.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Logos_clientes_02_e343f600ca.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>        
- <SwiperSlide>  
- <a href="https://depto51.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/008_depto51_min_e1591908321210_f70d184180.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.bellota.cl/">
             <img
@@ -235,34 +154,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://fabrics.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/fabrics2_4a206b5de7.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://amoble.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/amoble_e7d43060bd.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
 <SwiperSlide>  
  <a href="https://www.cafecaribe.cl/">
             <img
@@ -291,34 +183,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
-<SwiperSlide>  
- <a href="https://mizos.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/MIZOS_cff77fa254.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://naay.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/NAAY.png?v=1775057407"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>               
+         
  <SwiperSlide>  
  <a href="https://www.freemet.cl/">
             <img
@@ -347,34 +212,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://hellowine.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/007_hellowine_min_e1591908439272_70b60cc0a3.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://www.eliteperfumes.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/elite_ff917d54df.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
 <SwiperSlide>  
  <a href="#">
             <img
@@ -403,34 +241,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://totem.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/TOTEM.png?v=1775057407"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://tiendaride.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-07.png?v=1710790101"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
+ 
 <SwiperSlide>  
  <a href="https://www.7veinte.cl/">
             <img
@@ -459,34 +270,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://profesorklocker.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/profesor_klocker_febb4142db.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
-<SwiperSlide>  
- <a href="https://www.lounge.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-03.png?v=1710789908"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://lovelust.cl/">
             <img
@@ -515,34 +299,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
-<SwiperSlide>  
- <a href="https://sheet.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-17.png?v=1710790100"
-                   
 
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.killstore.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/009_killstore_min_e1591908413192_3d7b872cee.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
 <SwiperSlide>  
  <a href="https://www.lineatre.cl/">
             <img
@@ -571,34 +328,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide> 
- <SwiperSlide>  
- <a href="https://mashini.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/mashini2_2785ee6d0e.jpg?v=1658866603"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>  
- <SwiperSlide>  
- <a href="https://limonada.cl/pages/black-and-blue">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Black_Blue.png?v=1775057407"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>  
+ 
  <SwiperSlide>  
  <a href="https://www.areadesign.cl/">
             <img
@@ -627,34 +357,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide> 
-<SwiperSlide>  
- <a href="https://naturaloe.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/NATURALOE_b41909a32b.png?v=1658866602"
-                   
 
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.boazjoyas.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/boaz_a49b3e2bdc.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
  <SwiperSlide>  
  <a href="https://www.bombukids.cl/">
             <img
@@ -678,34 +381,6 @@ export default function App() {
                   width="60%"
                    
                     src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Brain_toys_815d709e7d.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.bravaestampa.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/brava_Logo_b35150df62.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://buka.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/buka_0ba85ced15.png?v=1658866602"
                    
 
                   ></img>
@@ -740,35 +415,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://pergolux.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-05.png?v=1710789988"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://clubdelseguro.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/CLUB_DEL_SEGURO_a05b27fc91.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-
+ 
  <SwiperSlide>  
  <a href="https://decoporti.cl/">
             <img
@@ -797,34 +444,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://discoverystore.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/DISCOVERY_d4912f298b.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://ecotiendanatural.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Ecotienda_natural_f19c2a2c50.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.estacionnatural.cl/">
             <img
@@ -838,7 +458,7 @@ export default function App() {
 
                   ></img>
                   </a>
- </SwiperSlide>
+ </SwiperSlide>                
  <SwiperSlide>  
  <a href="https://etienne.cl/">
             <img
@@ -853,34 +473,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://familyshop.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/family_shop_7e0d4784da.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://fondodeculturaeconomica.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/FCE_184917b502.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.forastero.life/">
             <img
@@ -895,8 +488,6 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
-
- 
  <SwiperSlide>  
  <a href="https://galeriaimpresionarte.com/">
             <img
@@ -911,34 +502,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.tiendakallfu.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/kallfu_54ce7b0584.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.kenza.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/KENZA_18dedc4ef9.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>          
+        
  <SwiperSlide>  
  <a href="https://www.macme.cl/">
             <img
@@ -967,34 +531,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>     
- <SwiperSlide>  
- <a href="https://milurugs.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/MILU_RUGS_0d70b436a1.png?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.ngx.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/005_ngx_min_e1591908387139_d845a83107.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
+ 
  <SwiperSlide>  
  <a href="https://www.noajoyas.cl/">
             <img
@@ -1023,34 +560,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.pagofacil.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/pagofacil_c6dee93db1.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>  
- <SwiperSlide>  
- <a href="https://pichintun.com/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/pichintun_1c00bf7b6a.jpg?v=1658866602"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
+ 
  <SwiperSlide>  
  <a href="https://siouxjeans.cl/">
             <img
@@ -1079,34 +589,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide> 
- <SwiperSlide>  
- <a href="https://tendenciasgourmet.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/tendenciasgourmet_9643680d30.jpg?v=1658866603"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
- <SwiperSlide>  
- <a href="https://www.village.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/village_2d4d3303f5.jpg?v=1658866603"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
+ 
  <SwiperSlide>  
  <a href="https://www.zooyork.cl/">
             <img
@@ -1135,34 +618,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide> 
- <SwiperSlide>  
- <a href="https://www.nextsteps.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-08.png?v=1710790100"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
- <SwiperSlide>  
- <a href="https://www.agencialosnavegantes.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-09.png?v=1710790101"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide> 
+ 
  <SwiperSlide>  
  <a href="https://indiachic.cl/">
             <img
@@ -1191,8 +647,801 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide> 
-
+ 
  <SwiperSlide>  
+ <a href="https://www.awl.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-15.png?v=1710790100"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.freshbrand.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-18.png?v=1710790100"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ 
+<SwiperSlide>  
+ <a href="https://go2store.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/GO2.png?v=1775069162"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://arcadiapetfood.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Arcadia.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="https://ofki.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ofki.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://toyng.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Toyng.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="https://www.puertopet.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/PuertoPet.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.sweetmaite.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/SWEET_MAITE.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="https://www.realcoffee.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/RealCoffee.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://blancasofia.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/BlancaSofia.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="https://ladiamanteria.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/LaDiamanteria.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.aumex.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AumexAutoparts.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>  
+
+<SwiperSlide>  
+ <a href="https://bazarfungi.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/BazarFungi.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://doublecolors.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/DoubleColors.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="https://www.designtec.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/DesignTec.png?v=1775069325"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ 
+
+
+
+
+
+
+ {/* Mitad del bendito */}
+
+
+
+
+
+
+
+<SwiperSlide>  
+        <a href="https://tienda.notco.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-22.png?v=1710790100"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://limonada.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/grupolimonada_f1f09e2eed.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.blockstore.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Block_8aa8ef2b2e.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.topwear.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES_Mesa_de_trabajo_1.png?v=1710789722"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+
+<SwiperSlide>  
+ <a href="http://www.escueladecomercio.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Logos_clientes_02_e343f600ca.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>        
+ <SwiperSlide>  
+ <a href="https://depto51.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/008_depto51_min_e1591908321210_f70d184180.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://fabrics.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/fabrics2_4a206b5de7.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://amoble.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/amoble_e7d43060bd.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://mizos.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/MIZOS_cff77fa254.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://naay.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/NAAY.png?v=1775057407"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>      
+<SwiperSlide>  
+ <a href="https://hellowine.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/007_hellowine_min_e1591908439272_70b60cc0a3.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.eliteperfumes.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/elite_ff917d54df.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://totem.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/TOTEM.png?v=1775057407"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://tiendaride.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-07.png?v=1710790101"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
+ <a href="https://profesorklocker.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/profesor_klocker_febb4142db.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
+ <a href="https://www.lounge.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-03.png?v=1710789908"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://sheet.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-17.png?v=1710790100"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.killstore.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/009_killstore_min_e1591908413192_3d7b872cee.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://mashini.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/mashini2_2785ee6d0e.jpg?v=1658866603"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>  
+ <SwiperSlide>  
+ <a href="https://limonada.cl/pages/black-and-blue">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Black_Blue.png?v=1775057407"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>  
+<SwiperSlide>  
+ <a href="https://naturaloe.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/NATURALOE_b41909a32b.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.boazjoyas.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/boaz_a49b3e2bdc.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.bravaestampa.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/brava_Logo_b35150df62.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://buka.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/buka_0ba85ced15.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://pergolux.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-05.png?v=1710789988"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://clubdelseguro.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/CLUB_DEL_SEGURO_a05b27fc91.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://discoverystore.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/DISCOVERY_d4912f298b.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://ecotiendanatural.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Ecotienda_natural_f19c2a2c50.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://familyshop.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/family_shop_7e0d4784da.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://fondodeculturaeconomica.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/FCE_184917b502.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+<SwiperSlide>  
+ <a href="https://www.tiendakallfu.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/kallfu_54ce7b0584.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.kenza.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/KENZA_18dedc4ef9.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>  
+<SwiperSlide>  
+ <a href="https://milurugs.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/MILU_RUGS_0d70b436a1.png?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>
+ <SwiperSlide>  
+ <a href="https://www.ngx.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/005_ngx_min_e1591908387139_d845a83107.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
+ <a href="https://www.pagofacil.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/pagofacil_c6dee93db1.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide>  
+ <SwiperSlide>  
+ <a href="https://pichintun.com/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/pichintun_1c00bf7b6a.jpg?v=1658866602"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
+ <a href="https://tendenciasgourmet.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/tendenciasgourmet_9643680d30.jpg?v=1658866603"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+ <SwiperSlide>  
+ <a href="https://www.village.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/village_2d4d3303f5.jpg?v=1658866603"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
+ <a href="https://www.nextsteps.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-08.png?v=1710790100"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+ <SwiperSlide>  
+ <a href="https://www.agencialosnavegantes.cl/">
+            <img
+                  style={{paddingBottom:"20px"}}
+                  loading="lazy"
+                  alt="Agencia Los Navegantes"
+                  width="60%"
+                   
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-09.png?v=1710790101"
+                   
+
+                  ></img>
+                  </a>
+ </SwiperSlide> 
+<SwiperSlide>  
  <a href="https://amantanitienda.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1220,36 +1469,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
- <SwiperSlide>  
- <a href="https://www.awl.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-15.png?v=1710790100"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- 
- <SwiperSlide>  
- <a href="https://www.freshbrand.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ALN-MARZO-SEM03-LOGOSCLIENTES-18.png?v=1710790100"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
+<SwiperSlide>  
  <a href="https://rakuencosmeticacoreana.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1272,34 +1492,6 @@ export default function App() {
                   width="60%"
                    
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/VaniteJoyas.png?v=1775069163"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://go2store.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/GO2.png?v=1775069162"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://arcadiapetfood.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Arcadia.png?v=1775069325"
                    
 
                   ></img>
@@ -1334,34 +1526,6 @@ export default function App() {
                   </a>
  </SwiperSlide>
 <SwiperSlide>  
- <a href="https://ofki.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/ofki.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://toyng.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/Toyng.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
  <a href="https://outdoorfeat.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1384,34 +1548,6 @@ export default function App() {
                   width="60%"
                    
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/MANADA.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://www.puertopet.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/PuertoPet.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://www.sweetmaite.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/SWEET_MAITE.png?v=1775069325"
                    
 
                   ></img>
@@ -1446,34 +1582,6 @@ export default function App() {
                   </a>
  </SwiperSlide>
 <SwiperSlide>  
- <a href="https://www.realcoffee.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/RealCoffee.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://blancasofia.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/BlancaSofia.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
  <a href="https://rupha.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1502,34 +1610,6 @@ export default function App() {
                   </a>
  </SwiperSlide>
 <SwiperSlide>  
- <a href="https://ladiamanteria.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/LaDiamanteria.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://www.aumex.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AumexAutoparts.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>  
-<SwiperSlide>  
  <a href="https://www.terranostra.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1552,34 +1632,6 @@ export default function App() {
                   width="60%"
                    
                     src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/NERFIS.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://bazarfungi.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/BazarFungi.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
-<SwiperSlide>  
- <a href="https://doublecolors.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/DoubleColors.png?v=1775069325"
                    
 
                   ></img>
@@ -1614,20 +1666,6 @@ export default function App() {
                   </a>
  </SwiperSlide>
 <SwiperSlide>  
- <a href="https://www.designtec.cl/">
-            <img
-                  style={{paddingBottom:"20px"}}
-                  loading="lazy"
-                  alt="Agencia Los Navegantes"
-                  width="60%"
-                   
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/DesignTec.png?v=1775069325"
-                   
-
-                  ></img>
-                  </a>
- </SwiperSlide>
- <SwiperSlide>  
  <a href="https://www.agencialosnavegantes.cl/">
             <img
                   style={{paddingBottom:"20px"}}
@@ -1641,6 +1679,7 @@ export default function App() {
                   ></img>
                   </a>
  </SwiperSlide>
+
       </Swiper>
       <div className=" slider-pad" style={{justifyContent:"center", display:"flex", textAlign: "center", paddingTop: "25px" }}>
           <h2 className="tit-movil" style={{ marrginTop:"20px", marginBottom:"20px", fontSize:"28px", fontWeight:"700", paddingLeft:"10px", paddingRight:"10px" }} >¿Quieres conocer nuestros casos de éxito?</h2>
