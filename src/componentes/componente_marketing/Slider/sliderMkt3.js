@@ -84,7 +84,7 @@ const slidermkt3 = () => {
                   alt="Agencia Los Navegantes"
                   width="85%"
                    
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/2_a1356ede-1d9d-4ad5-be42-77be59d0b026.jpg?v=1742847608"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_168_2_a1356ede-1d9d-4ad5-be42-77be59d0b026.png?v=1775080394"
                     
                   ></img>
  </SwiperSlide>
