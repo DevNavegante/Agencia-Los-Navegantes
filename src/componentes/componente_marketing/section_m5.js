@@ -199,7 +199,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
           objectFit: "contain",
           padding: "10px" 
         }}
-        src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/PremierPartner_2025.png?v=1742588845"
+        src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_171_PremierPartner_2025.png?v=1775078880"
       />
     </div>
     
