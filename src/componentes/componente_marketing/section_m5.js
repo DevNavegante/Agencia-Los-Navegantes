@@ -492,7 +492,7 @@ src="https://cdn.shopify.com/s/files/1/0654/9366/3973/files/Landing_Ecommerce_VT
            width="70%"
   
          className="lazyload img "
-         src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/10_anos_de_experiencia_1.png?v=1742830957"
+         src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_190_10_anos_de_experiencia_1.png?v=1775079217"
        ></img>
 
 </Col>
