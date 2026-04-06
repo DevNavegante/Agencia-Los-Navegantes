@@ -37,7 +37,7 @@ const slidermkt3 = () => {
                   alt="Agencia Los Navegantes"
                   width="85%"
                    
-                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/GOOGLE_PARTNER_MATIAS_1.png?v=1742588180"
+                    src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/imgi_186_GOOGLE_PARTNER_MATIAS_1.png?v=1775478770"
                    
 
                   ></img>
