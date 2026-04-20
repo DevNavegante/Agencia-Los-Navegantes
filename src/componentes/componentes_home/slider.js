@@ -1230,7 +1230,27 @@ const slider = () => {
                   ></img>
                   </a>
  </SwiperSlide> 
- 
+ <SwiperSlide>  
+  <img                  
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios.webp?v=1775072508"                               
+                  ></img>
+ </SwiperSlide>
+            <SwiperSlide>  
+  <img                  
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-03.webp?v=1776700136"                               
+                  ></img>
+ </SwiperSlide>
+            <SwiperSlide>  
+  <img                  
+                  alt="Agencia Los Navegantes"
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-02.webp?v=1776700136"                               
+                  ></img>
+ </SwiperSlide>
       </Swiper>
       <div className=" slider-pad" style={{justifyContent:"center", display:"flex", textAlign: "center", paddingTop: "25px" }}>
           <h2 className="tit-movil" style={{ marrginTop:"20px", marginBottom:"20px", fontSize:"28px", fontWeight:"700", paddingLeft:"10px", paddingRight:"10px" }} >¿Quieres conocer nuestros casos de éxito?</h2>
