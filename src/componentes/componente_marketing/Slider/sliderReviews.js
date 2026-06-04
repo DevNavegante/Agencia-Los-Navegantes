@@ -198,7 +198,7 @@ alt="Agencia Los Navegantes"
 
  </SwiperSlide>
 
-             <SwiperSlide>  
+             /*<SwiperSlide>  
   <img                  
                 
                   alt="Agencia Los Navegantes"
@@ -207,7 +207,7 @@ alt="Agencia Los Navegantes"
                   ></img>
                     
 
- </SwiperSlide>
+ </SwiperSlide>*/
 
     <SwiperSlide>  
   <img                  
