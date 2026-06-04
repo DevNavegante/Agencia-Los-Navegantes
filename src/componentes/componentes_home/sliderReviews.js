@@ -203,16 +203,6 @@ alt="Agencia Los Navegantes"
                     
 
  </SwiperSlide>
-// <SwiperSlide>  
-//  <img                  
-//                
-//                  alt="Agencia Los Navegantes"
-//                  className="mmimm lazyload img-fluid"
-//                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/IMG_0259.jpg?v=1750283723"                               
-//                  ></img>
-//                    
-//
-// </SwiperSlide>
 <SwiperSlide>  
   <img                  
                 
